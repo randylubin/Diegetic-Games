@@ -2,32 +2,25 @@
 layout: default
 ---
 
-<div class="container">
-  <div class="row">
-    <div class="col-md-8 col-md-offset-2">
-      <h1 class="page-heading">The Diegetic Games Blog</h1>
 
-      <ul class="post-list">
-        {% for post in site.posts %}
-          <li>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<h1 class="page-heading">The Diegetic Games Blog</h1>
 
-            <h2>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            </h2>
-            {% if post.content contains '<!--more-->' %}
-                {{ post.content | split:'<!--more-->' | first }}
-            {% else %}
-                {{ post.excerpt }}
-            {% endif %}
-            <a href="{{ post.url }}">Read More</a>
-          </li>
-        {% endfor %}
-      </ul>
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-    </div>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      {% if post.content contains '<!--more-->' %}
+          {{ post.content | split:'<!--more-->' | first }}
+      {% else %}
+          {{ post.excerpt }}
+      {% endif %}
+      <a href="{{ post.url }}">Read More</a>
+    </li>
+  {% endfor %}
+</ul>
 
-  </div>
-
-</div>
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
