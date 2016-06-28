@@ -8,7 +8,7 @@
 # Site settings
 title: Diegetic Games, RPGs, Story Games, Storytelling
 email: randy@diegeticgames.com
-description: Diegetic Games is Randy Lubin's game design studio. This site contains RPGs and other story games. There are free print and play games, including drafts of upcoming releases.
+description: Diegetic Games is Randy Lubin's game studio, full of RPGs and other story games. There are free print and play games, including drafts of upcoming releases.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://diegeticgames.com" # the base hostname & protocol for your site
 twitter_username: diegeticgames
