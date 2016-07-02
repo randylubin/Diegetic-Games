@@ -1,0 +1,179 @@
+@font-face {
+    font-family: hitchcock_font;
+    src: local(hitchcock_font), url('Hitchcock.ttf') format('opentype');
+}
+
+/* colors
+	orange: F48220;
+	maroon: 5C120F;
+	deep red: A71E23;
+
+*/
+
+
+body {
+	font-family: optima;
+
+	background-color: white;
+}
+
+h1, h2, h3, h4 {
+	font-family: Raleway;
+}
+
+.row {
+	max-width: 800px;
+	margin: auto;
+}
+
+.red-background {
+	background-color: #A71E23;
+	color: white;
+	font-size: 1.25em;
+}
+
+.red-background a:link, .red-background a:visited {
+	color:#F48220;
+}
+
+
+#wrap {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    /* Negative indent footer by it's height */
+    margin: 0 auto -70px;
+}
+
+.image-crop{
+	margin-top:15px;
+	width:auto;
+	height:230px;
+	overflow: hidden;
+}
+
+.card-photos{
+	max-width: 500px;
+	margin: auto;
+		
+}
+
+.push, .footer {
+	height: 70px;
+	background-color: transparent;
+	padding-top: 17px;
+}
+
+.footer-trap {
+	border-bottom: 100px solid #A71F23;
+	border-left: 100vw solid transparent;
+	border-right: 0px solid transparent;
+	margin-bottom:70px;
+	height: 0;
+	width: auto;
+}
+
+.red-trap-top {
+	border-bottom: 100px solid #A71F23;
+	border-left: 0px solid transparent;
+	border-right: 100vw solid transparent;
+	height: 0;
+	width: auto;
+}
+
+.trap-bottom {
+	border-top: 80px solid #A71F23;
+	border-left: 0px solid transparent;
+	border-right: 100vw solid transparent;
+	height: 0;
+	width: auto;	
+}
+
+.orange-trap-top {
+	border-bottom: 100px solid #F48220;
+	border-left: 0px solid transparent;
+	border-right: 100vw solid transparent;
+	height: 0;
+	width: auto;	
+}
+
+.footer a:link, .footer a:visited {
+	color: white;
+	font-family: Raleway;
+}
+
+.header {
+	background-color: #5C120F;
+	margin-bottom:15px;
+	color: white;
+}
+
+.header a:link, .header a:visited {
+	color: white;
+	font-family: Raleway;
+}
+
+.header a:hover {
+	color: #A71F23;
+	font-family: Raleway;
+	text-decoration: none;
+
+}
+
+a:link, a:visited {
+	color: #A71E23;
+}
+
+.main-content {
+	color: black;
+	font-size: 1.25em;
+}
+
+.title	{
+	font-size: 3em;
+}
+
+.hitchcock {
+	font-family: hitchcock_font;
+}
+
+.intro-story {
+	font-style: italic;
+	margin-top: 20px;
+}
+
+.footer {
+	background-color: #A71E23;
+	padding-top:5px;
+}
+
+.print-section {
+	background-color: #F48220;
+	color: #5C120F;
+}
+
+.print-section a:link, .print-section a:visited {
+	color: #A71E23;
+}
+
+/* MailChimp Form Embed Code - Slim - 08/17/2011 */
+
+#mc_embed_signup input {border:1px solid #999; -webkit-appearance:none;}
+#mc_embed_signup input[type=checkbox]{-webkit-appearance:checkbox;}
+#mc_embed_signup input[type=radio]{-webkit-appearance:radio;}
+#mc_embed_signup input:focus {border-color:#333;}
+#mc_embed_signup .button {clear:both; background-color: #aaa; border: 0 none; border-radius:4px; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:15px; font-weight: bold; height: 32px; line-height: 32px; margin: 0 5px 10px 0; padding:0; text-align: center; text-decoration: none; vertical-align: top; white-space: nowrap; width: auto;}
+#mc_embed_signup .button:hover {background-color:#777;}
+#mc_embed_signup .small-meta {font-size: 11px;}
+#mc_embed_signup .nowrap {white-space:nowrap;}     
+#mc_embed_signup .clear {clear:none; display:inline;}
+
+#mc_embed_signup label {display:block; font-size:16px; padding-bottom:10px; font-weight:bold;}
+#mc_embed_signup input.email {display:block; padding:8px 0; margin:0 4% 10px 0; text-indent:5px; width:58%; min-width:130px;}
+#mc_embed_signup input.button {display:block; width:35%; margin:0 0 10px 0; min-width:90px;}
+
+#mc_embed_signup div#mce-responses {float:left; top:-1.4em; padding:0em .5em 0em .5em; overflow:hidden; width:90%;margin: 0 5%; clear: both;}
+#mc_embed_signup div.response {margin:1em 0; padding:1em .5em .5em 0; font-weight:bold; float:left; top:-1.5em; z-index:1; width:80%;}
+#mc_embed_signup #mce-error-response {display:none;}
+#mc_embed_signup #mce-success-response {color:#529214; display:none;}
+#mc_embed_signup label.error {display:block; float:none; width:auto; margin-left:1.05em; text-align:left; padding:.5em 0;}
