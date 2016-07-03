@@ -58,6 +58,7 @@ body {
 
 h1, h2, h3, h4 {
   font-family: 'Fjalla One', sans-serif;
+  padding-top: 20px;
 }
 p {
   font-size: 18px
@@ -97,4 +98,42 @@ blockquote:before {
 }
 blockquote p {
   display: inline;
+}
+
+.dropdown-menu>li>a {
+  color: black;
+}
+
+.jumbotron.homepage {
+  background: #323a4f; /* Old browsers */
+  background: -moz-linear-gradient(-45deg,  #323a4f 0%, #060709 50%, #323a4f 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg,  #323a4f 0%,#060709 50%,#323a4f 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg,  #323a4f 0%,#060709 50%,#323a4f 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#323a4f', endColorstr='#323a4f',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+  background: url(/img/diegetic-games-background.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 500px;
+
+  margin-top: -50px
+}
+
+.container.homepage {
+  text-align: center;
+  padding-top: 100px;
+  color: #FCF8E3;
+  text-shadow:
+    2px 2px 0 #000,
+   -1px -1px 0 #000,
+    1px -1px 0 #000,
+   -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.navbar {
+  padding-top: 12px;
+  padding-bottom: 12px;
 }

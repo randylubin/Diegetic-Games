@@ -9,7 +9,7 @@ Story games are a diverse category and information about them is scattered acros
 
 Bonus material: I gave talk *Games, Narrative, and Story* that covers some of the relevant themes. Not all of it is relevant to but it provides an overview to the intersection of games and storytelling.
 
-<iframe width="560" height="315" style="display:block; margin-right:auto; margin-left:auto; margin-bottom:30px;" src="https://www.youtube.com/embed/P_VrNl15KbA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" style="display:block; margin-right:auto; margin-left:auto; margin-bottom:30px; margin-top:30px;" src="https://www.youtube.com/embed/P_VrNl15KbA" frameborder="0" allowfullscreen></iframe>
 
 ## Card and Board Games
 Storytelling board and card games tend to have a good deal of narrative scaffolding, which makes it easier to tell a story. Often, these games present a  limited set of options to the storyteller and that is safer than having complete creative freedom. The downside to this structure is that these games don't always yield good stories. Here are a few storytelling games and their tradeoffs.
@@ -80,7 +80,7 @@ The next step up in crunch includes games like Dungeons and Dragons 5th Edition 
 Some of the most crunch games out there are [Pathfinder](https://en.wikipedia.org/wiki/Pathfinder_Roleplaying_Game) or [GURPS](https://en.wikipedia.org/wiki/GURPS). I don't recommend starting with them unless you have a friend who already knows the rules.
 
 ### Other Resources
-You can find info on lots of RPGs at [RPGGeek.com](http://rpggeek.com). I also recommend checking out the [RPG subreddit](https://www.reddit.com/r/rpg) which also has links to specific subreddits for all major games.
+You can find info on lots of RPGs at [RPGGeek.com](http://rpggeek.com). I also recommend checking out the [RPG subreddit](https://www.reddit.com/r/rpg) which also has links to specific subreddits for all major games. I've also compiled a list of [great RPG podcasts](/learn/podcasts).
 
 ## Live Action Role-Playing Games
 *I've only recently started exploring LARP so this section will evolve over time.*
