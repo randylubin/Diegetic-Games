@@ -21,7 +21,7 @@ I'll use this blog to:
 This type of content used to be on my [personal blog](http://blog.randylubin.com), which also contains life stuff and musings on startups and tech.
 
 ## About the name "Diegetic Games"
-Diegesis is the Greek word for narrative or plot. It's a natural fit for my designs but I'm only using it because my first pick - hyperdiegesis - is too unwieldy. Hyperdiegesis is one of my favorite terms from media studies Matt Hills coined it and defined it as:
+Diegesis is the Greek word for narrative or plot. It's a natural fit for my designs but I'm only using it because my first pick - hyperdiegesis - is too unwieldy. Hyperdiegesis is one of my favorite terms from media studies. Matt Hills coined it and defined it as:
 
 > [...] the creation of a vast and detailed narrative space, only a fraction of which is ever directly seen or encountered within the text, but which nonetheless appears to operate according to principles of internal logic and extension
 
