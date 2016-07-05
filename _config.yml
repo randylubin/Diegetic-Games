@@ -16,3 +16,6 @@ github_username:  randylubin
 
 # Build settings
 markdown: kramdown
+
+gems:
+- jekyll-sitemap
