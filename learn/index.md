@@ -1,6 +1,6 @@
 ---
 title: Learn
-description: An overview of the different types of story games: card and board games, RPGs, and LARPs. Includes examples, how to get started, and where to learn more.
+description: An overview of the different types of story games&#58; card and board games, RPGs, and LARPs. Includes examples, how to get started, and where to learn more.
 layout: default
 ---
 
