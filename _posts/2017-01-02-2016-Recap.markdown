@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "2016 Recap"
+description:
+date:   2017-01-02 09:18:47 -0700
+categories: blog
+tags: recap
+---
+2016 was the first year of Diegetic Games and it was incredibly productive! In this post I'll recap the games I've released and the games still in draft form.
+
+# 2016 Releases
+This year I released a total of five games, all for free!
+
+## Hackers and Hustlers
+[![Hackers and Hustlers RPG Logo](/img/hackers_and_hustlers.png)](/hackers_and_hustlers_rpg/)
+[Hackers and Hustlers](https://diegeticgames.com/hackers_and_hustlers_rpg/) was my first major release in 2016 and I'm thrilled with how it turned out. It's a one-page RPG that sets up a Silicon Valley farce (and a remix of [Lasers and Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf)). It was the first game I designed using Adobe InDesign and the visuals are big step up from Google Docs :)
+
+## Exosolar
+[![Exosolar RPG cover](/img/exosolar.jpg)](/game_files/Exosolar.pdf)
+I created [Exosolar](https://diegeticgames.com/game_files/Exosolar.pdf) for the [2016 Game Chef competition](http://www.game-chef.com/). It's a quick RPG about robots struggling to survive on an alien planet. Game Chef is a great competition and I look forward to participating again this year.
+
+## Condemned
+[![Condemned Game Cover](/img/Condemned_cover.jpg)](/condemned/)
+
+[Condemned](https://diegeticgames.com/condemned/) is a series of three games created for [The Power Broker](https://medium.com/@timhwang/the-power-broker-a-game-design-competition-5eb4ff1f8146#.uus04z2fz) game design competition. The main storytelling game, [The Idealist](https://diegeticgames.com/game_files/The_Idealist.pdf) is about characters undergoing a tragic arc from idealistic to corrupt. The other two games have players engaging with their local civic infrastructure.
+
+## Maccabees and Menorahs
+[![Maccabees and Menorahs Storytelling Game Logo](/img/maccabees-and-menorahs-titlelink.png)](/maccabees-and-menorahs/)
+I created [Maccabees and Menorahs](https://diegeticgames.com/maccabees-and-menorahs/) just in time for Hanukkah. It's a one page RPG where players tell the story of Hanukkah and use a dreidle instead of dice. I put this together in just a few days and am very happy with how it turned out!
+
+# Diegetic Games Drafts
+In addition to the five games I've released, I've also shared four new drafts (six, if you count the Premise variants separately). They're all shared publicly so let me know if you have any feedback!
+
+<!-- Icons from the Noun Project
+  Clean City: Chameleon Design https://thenounproject.com/search/?q=city&i=603240
+  Map: Arthur Shlain https://thenounproject.com/search/?q=map&i=96666
+  Map: Fuat şanlı https://thenounproject.com/search/?q=map&i=648609
+  Network: Brennan Novak https://thenounproject.com/search/?q=network&i=21268
+  Panorama: icon 54 https://thenounproject.com/search/?q=panorama&i=230051
+  Person:Character: Daryl Vandemont https://thenounproject.com/search/?q=persona&i=352874
+ -->
+
+## Panorama
+[![Panorama Game Draft Logo](/img/draft-pictures/panorama-draft-shot-1.jpg)](/game_files/Panorama.pdf)
+I started this year by refining [Panorama](https://diegeticgames.com/game_files/Panorama.pdf). It's a worldbuilding game, inspired by Microscope, in which players build out a setting by identifying the important locations, groups, and individuals. The current version is fun but – much like Microscope – it lacks a satisfying conclusion. I paused work on it to focus on other projects but might return to it some day.
+
+## It's All Connected!
+[![It's All Connected! Game Draft Logo](/img/draft-pictures/its-all-connected-draft-shot-1.jpg)](/game_files/ITSALLCONNECTED.pdf)
+By the end of January, I created a draft of a new game [It's All Connected](https://diegeticgames.com/game_files/ITSALLCONNECTED.pdf). In this game, players use a local newspaper to generate a far flung conspiracy. It's silly and is short – perfect for a warmup game. The rules are pretty good as-is and I'll probably create a nicely designed version at some point.
+
+## Premise: Setting, Character, and Plot
+[![Premise Storytelling Game Draft Logo](/img/draft-pictures/premise-draft-shot-1.jpg)](/game_files/Premise.pdf)
+In May, I started work on what became a trio of games focused on different elements of storytelling. Premise: Character (née Persona) was the first iteration and let's players create compelling characters by using a template building on each others ideas. I created Premise: Setting over the summer and Premise: Plot in the fall. I brought Premise to Metatopia where I received some great feedback. You can check out the current [draft of Premise](Premise: Setting, Character, and Plot) and I'm hoping to release a final version this winter.
+
+## Make Haste!
+[![Make Haste! Game Draft Logo](/img/draft-pictures/make-haste-game-shot-1.jpg)](/game_files/Make-Haste.pdf)
+In December I started work on [Make Haste!](https://diegeticgames.com/game_files/Make-Haste.pdf), a map-making game where players tell the story of a group on a quest. I've only run two playtests so far, but I'm excited about how it's shaping up! Stay tuned for more info...
+
+# Metatopia and the Game Design Community
+This year I grew a lot closer to the broader game design community. I've been running a monthly playtest series in San Francisco with other local designers and am attending other playtest events. Online, I've started talking with an amazing community of professional game designers on Google Plus.
+
+One of the highlights of 2016 was attending Metatopia – the best annual conference for game designers. I met so many phenomenal game designers and they were all incredibly warm, inclusive, and thoughtful. I'm looking forward to returning in 2017 and attending more conferences / conventions in general.
+
+# Final Thoughts
+I had a great time making games in 2016 and I think I've grown a lot as a game designer – the best way to improve is practice and I designed a lot this year. I've also learned Adobe InDesign which has made a big difference in the visual quality of my output. I'm looking forward to making and sharing many more games in 2017!
+
+If you want to get updates about new games and drafts, sign up for the [Diegetic Games Newsletter](http://eepurl.com/cvSa2f)!
+
+You can always email me at [randy@diegeticgames.com](mailto:randy@diegeticgames.com)

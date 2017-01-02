@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Condemned - three new games!"
-date:   2016-07-24 13:18:47 -0700
+date:   2016-07-30 13:18:47 -0700
 categories: blog
 tags: games, condemned
 ---
