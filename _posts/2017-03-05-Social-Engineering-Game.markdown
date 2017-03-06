@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Updates: Premise and Make Haste!"
-description: "Social Engineering Game"
+title:  "Social Engineering Game"
+description: "A pitch for a social engineering game"
 date:   2017-03-05 22:18:47 -0700
 categories: blog
 tags: drafts
