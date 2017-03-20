@@ -1,11 +1,16 @@
 ---
+title: 'Updates: Premise and Make Haste!'
+date: 2017-02-27 05:18:47 Z
+categories:
+- blog
+tags:
+- premise,
+- drafts,
+- make-haste
 layout: post
-title:  "Updates: Premise and Make Haste!"
-description: "Updates on the status of two games: Premise and Make Haste!"
-date:   2017-02-26 22:18:47 -0700
-categories: blog
-tags: premise, drafts, make-haste
+description: 'Updates on the status of two games: Premise and Make Haste!'
 ---
+
 I've been hard at work on a multiple different games and it's been a busy couple months outside of game design. This post will provide a quick update on both Premise and Make Haste! – hopefully I'll be sharing news of other projects soon.
 
 # Premise

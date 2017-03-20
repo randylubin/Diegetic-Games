@@ -1,7 +1,8 @@
 ---
-layout: default
-description: An overview of the game design studio Diegetic Games, its game design philosophy, the terms diegesis and hyperdiegesis, and the game designer Randy Lubin
 title: Diegetic Games | About
+layout: default
+description: An overview of the game design studio Diegetic Games, its game design
+  philosophy, the terms diegesis and hyperdiegesis, and the game designer Randy Lubin
 ---
 
 # About Diegetic Games

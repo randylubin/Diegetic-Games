@@ -1,11 +1,16 @@
 ---
+title: Seeking Advice for Premise
+date: 2017-01-18 16:18:47 Z
+categories:
+- blog
+tags:
+- premise,
+- drafts,
+- publishing
 layout: post
-title:  "Seeking Advice for Premise"
-description: "I'm looking for advice in taking Premise to Market"
-date:   2017-01-18 9:18:47 -0700
-categories: blog
-tags: premise, drafts, publishing
+description: I'm looking for advice in taking Premise to Market
 ---
+
 I'd love some advice on getting [**Premise: Setting, Character, and Plot**](https://diegeticgames.com/game_files/Premise.pdf) in front of a larger audience!
 
 I've been refining Premise – a collaborative storytelling / worldbuliding game – for the better part of a year and the draft is pretty polished. I received lots of positive feedback from playtests (including at Metatopia) and would love to get the game out to a wider audience. I’m interested in maximizing the number of folks playing it, not profiting – though if I can make a little money, all the better.

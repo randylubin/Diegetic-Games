@@ -1,10 +1,13 @@
 ---
+title: Hackers and Hustlers RPG Launch
+date: 2016-07-24 20:18:47 Z
+categories:
+- blog
+tags:
+- games,hackers_and_hustlers
 layout: post
-title:  "Hackers and Hustlers RPG Launch"
-date:   2016-07-24 13:18:47 -0700
-categories: blog
-tags: games,hackers_and_hustlers
 ---
+
 I'm excited to announce a final(ish) version of the Hackers and Hustlers RPG!
 
 <a href="/game_files/hackers_and_hustlers_rpg.pdf"><img src="/img/hackers_and_hustlers_snapshot.jpg" alt="The Hackers and Hustlers RPG File" /></a>

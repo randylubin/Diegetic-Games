@@ -1,8 +1,10 @@
 ---
 title: Collaborative Storytelling Examples and Resources
-description: Examples from the cutting edge of collaborative storytelling in RPG, Larp, Interactive Theater, Virtual Reality, and more.
+description: Examples from the cutting edge of collaborative storytelling in RPG,
+  Larp, Interactive Theater, Virtual Reality, and more.
 layout: default
 ---
+
 # Collaborative Storytelling Examples and Resources
 
 I recently gave a talk about the future of Collaborative Storytelling and what we can learn from different mediums: Board Games, RPGs, Larps, Video Games, and Immersive Theater. Here are examples I used in my talk and resources to learn more.
