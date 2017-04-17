@@ -1,10 +1,14 @@
 ---
+title: Condemned - three new games!
+date: 2016-07-30 20:18:47 Z
+categories:
+- blog
+tags:
+- games,
+- condemned
 layout: post
-title:  "Condemned - three new games!"
-date:   2016-07-30 13:18:47 -0700
-categories: blog
-tags: games, condemned
 ---
+
 Another week another game (or three)! I just finished [Condemned](/game_files/Condemned.pdf) which is a collection of three games for ["The Power Broker"](https://medium.com/@timhwang/the-power-broker-a-game-design-competition-5eb4ff1f8146#.hsi0oze5k) game design competition.
 
 <center>

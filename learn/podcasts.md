@@ -1,8 +1,10 @@
 ---
 title: Game and Game Design Podcasts
-description: An overview of the top game and game design podcasts with a focus on RPGs.  Categories include actual plays, tips, analysis, and game design.
+description: An overview of the top game and game design podcasts with a focus on
+  RPGs.  Categories include actual plays, tips, analysis, and game design.
 layout: default
 ---
+
 # RPG and Game Design Podcasts
 
 Whether you're interested in playing games or designing them, there's a wealth of podcasts about the hobby. Here are some I recommend:

@@ -1,10 +1,13 @@
 ---
+title: Introducing Diegetic Games
+date: 2016-06-25 05:18:47 Z
+categories:
+- blog
+tags:
+- meta,announcements
 layout: post
-title:  "Introducing Diegetic Games"
-date:   2016-06-24 22:18:47 -0700
-categories: blog
-tags: meta,announcements
 ---
+
 Hi there - I'm [Randy Lubin](http://randylubin.com) and **Diegetic Games** is my game design studio. My goal is to empower people to have fun while telling great stories.
 
 I've always loved games but I've only been designing them for the last few years. I tend to make "story games" that are focused on generating great narratives, characters, and settings.

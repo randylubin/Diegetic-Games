@@ -1,11 +1,16 @@
 ---
+title: Early draft for Make Haste!
+date: 2017-01-16 03:18:47 Z
+categories:
+- blog
+tags:
+- Make-Haste,
+- drafts
 layout: post
-title:  "Early draft for Make Haste!"
-description: "Blog post sharing the early draft and playtests for map-making game Make Haste!"
-date:   2017-01-15 20:18:47 -0700
-categories: blog
-tags: Make-Haste, drafts
+description: Blog post sharing the early draft and playtests for map-making game Make
+  Haste!
 ---
+
 Over the past month I've been working on a new map-making game, tentatively called **Make Haste!**
 
 The game is inspired by a Jason Morningstar and Tim Hutchings talk at Metatopia – they shared amazing artifacts players had created for games. I wanted to create a game that yields great artifacts.
