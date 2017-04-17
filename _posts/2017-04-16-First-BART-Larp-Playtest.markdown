@@ -4,7 +4,9 @@ date: 2017-04-16 20:18:47 Z
 categories:
 - blog
 tags:
-- drafts, larp, BART
+- drafts
+- larp
+- BART
 layout: post
 description: An overview of the first playtest run for the BART Larp.
 ---
