@@ -10,6 +10,7 @@ tags:
 layout: post
 description: An overview of the first playtest run for the BART Larp.
 ---
+
 Yesterday I ran the first playtest of a new larp that takes place on BART (Bay Area Rapid Transit). I'm collaborating with [Albert Kong](http://www.lethalbeef.com/) and we've been noodling on this game for a few months – it was great to test it out in the wild!
 
 ![SFO Bart Station - the start of the larp](/img/blog/sfo-bart-station.jpg)
