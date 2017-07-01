@@ -5,7 +5,6 @@ categories:
 - blog
 tags:
 - Game Chef
-
 layout: post
 description: My intial ideas for Game Chef 2017
 ---
