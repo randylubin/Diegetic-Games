@@ -5,9 +5,8 @@ categories:
 - blog
 tags:
 - Game Chef
-
 layout: post
-description: My intial ideas for Game Chef 2017
+description: My initial ideas for Game Chef 2017
 ---
 
 Game Chef just announced their [2017 challenge](http://www.game-chef.com/game-chef-2017/) and I'm excited to design something for it! Last year I participated and created [Exosolar](https://diegeticgames.com/game_files/Exosolar.pdf), which I was pretty happy with.
