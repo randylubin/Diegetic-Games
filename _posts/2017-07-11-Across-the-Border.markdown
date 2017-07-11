@@ -1,6 +1,6 @@
 ---
 title: Across the Border - Game Chef 2017
-date: 2017-07-11 8:18:47 Z
+date: 2017-07-11 08:18:47 Z
 categories:
 - blog
 tags:
