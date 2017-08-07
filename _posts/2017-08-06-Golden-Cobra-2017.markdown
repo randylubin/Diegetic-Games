@@ -1,0 +1,22 @@
+---
+title: Golden Cobra 2017
+date: 2017-08-06 08:18:47 Z
+categories:
+- blog
+tags:
+- Golden Cobra
+- Larp
+layout: post
+description: My initial idea for Golden Cobra 2017
+---
+At the start of this week, [Golden Cobra](goldencobra.org) announced their 2017 challenge. The challenge is for designers to create short, freeform larps; that is short larps for a small number of participants to play without much prep. I haven't participated before but there is an awesome team running it and I'm keen to write more larps. I highly encourage you to try it out, it's a great chance to dabble in larp writing for the first time!
+
+I have an initial idea that I'm happy to share and it's inspired by the concept of _sonder_ – the realization that each random passerby is living a life as vivid and complex as your own. The game will be for two players and they'll play opposing characters who are bidding on the fate of those around them; an obvious theme would be an Angel and a Demon bidding on souls but I think I'll twist it to something more interesting.
+
+The game takes place in a public space, like a park, and players alternate choosing a person's fate to bid on. They point out a person nearby and describe their life up through now. Then the two players bid on the person and the winner describes their fate. Play continues until players have no more to bid.
+
+I still have some mechanics to work out around the bidding, and potentially around defining the value of different people's fates. I'm hoping to playtest it next weekend and I'll tweak it based on the feedback.
+
+As always, I'll post updates here. Until then, you can email me at [randy@diegeticgames.com](mailto:randy@diegeticgames.com)
+
+_If you want to get updates about new games and drafts, sign up for the [Diegetic Games Newsletter](http://eepurl.com/cvSa2f)_
