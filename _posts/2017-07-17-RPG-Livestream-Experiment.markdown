@@ -10,6 +10,7 @@ tags:
 layout: post
 description: A recap of an RPG livestream experiment with audience participation
 ---
+
 This weekend a few friends and I ran an experiment in interactive storytelling. We used Twitch to livestream an RPG session and we collaborated with the audience to share the story. It went smoothly and we learned a bunch about interacting with an audience. Big thanks to my collaborator / co-GM [Nathan Maton](https://nathanmaton.wordpress.com/) and our players Nick, Harry, and Andrew!
 
 ![screenshot of the skype and twitch windows we used for the rpg livestream](/img/blog/rpg-stream-twitch-skype.jpg)
