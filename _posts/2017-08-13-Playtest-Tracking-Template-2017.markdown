@@ -10,6 +10,7 @@ tags:
 layout: post
 description: An Airtable template for tracking playtests
 ---
+
 Playtesting is a key part of the game design process. My friend (and game designer) [Nick Punt](https://twitter.com/nickpunt) and I created a template to make tracking playtests easy. Here is the link to the [Playtest Tracking Template](https://airtable.com/invite/l?inviteId=invQylFIi34RMKJxf&inviteToken=6aca278bd71daa433889ac31ce4899dc); you can duplicate it and customized it to your needs. We built the template using [Airtable](https://airtable.com/), a spreadsheet / database combo which is perfect for tracking things like playtests.
 
 The template has four tabs and some of those tabs have multiple views. Here is an overview of the tabs:
