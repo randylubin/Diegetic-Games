@@ -1,6 +1,6 @@
 ---
 title: GIF-Apocalypse – 280 Character Game Jam
-date: 2017-10-1 12:18:47 Z
+date: 2017-10-01 12:18:47 Z
 categories:
 - blog
 tags:
