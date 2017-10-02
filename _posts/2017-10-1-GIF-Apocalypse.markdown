@@ -1,0 +1,38 @@
+---
+title: GIF-Apocalypse – 280 Character Game Jam
+date: 2017-10-1 12:18:47 Z
+categories:
+- blog
+tags:
+- game jam
+- twitter
+layout: post
+description: GIF Apocalypse is my submission to the 280 Character Game Jam on Twitter
+---
+
+This week, Twitter expanded their tweet length to 280 characters and [@cartwheel](https://twitter.com/cartweel) launched a 280 character game jam.
+
+My submission is a game meant to be played on Twitter purely using animated GIFs. Here are the rules:
+
+
+*GIF-Apocalypse*
+
+Decades after the apocalypse, literacy is gone but Twitter remains
+
+All chat is w/ GIFs, no text
+
+Each player has a resource the other needs
+
+Can you establish enough trust to meet IRL and trade goods, thus ensuring survival?
+
+###
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"> <a href="https://t.co/OIRJEXGDVs">pic.twitter.com/OIRJEXGDVs</a></p>&mdash; Randy Lubin (@randylubin) <a href="https://twitter.com/randylubin/status/913879503088238592?ref_src=twsrc%5Etfw">September 29, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+I received some great feedback and you see folks playing it in [this thread](https://twitter.com/randylubin/status/913915615051517952).
+
+This was a fun competition and you can check out the other great submissions at the [#280rpg hashtag](https://twitter.com/hashtag/280rpg?src=hash).
+
+
+_If you want to get updates about new games and drafts, sign up for the [Diegetic Games Newsletter](http://eepurl.com/cvSa2f)_
