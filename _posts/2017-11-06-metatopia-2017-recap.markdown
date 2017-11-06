@@ -6,6 +6,7 @@ categories:
 tags:
 - metatopia
 - playtest
+description: A quick recap of my experience at Metatopia 2017
 ---
 
 I had a phenomenal time at Metatopia this year! It was so great to catch up with old friends, meet internet friends in person, and discover great new designers.
