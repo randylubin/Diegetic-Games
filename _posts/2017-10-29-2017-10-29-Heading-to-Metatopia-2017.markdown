@@ -8,7 +8,8 @@ tags:
 - conferences
 - playtest
 layout: post
-description: This week I'm off to Metatopia to test my fantasy mockumentary game 'Behind the Magic'
+description: This week I'm off to Metatopia to test my fantasy mockumentary game 'Behind
+  the Magic'
 ---
 
 I'm heading to New Jersey this week for Metatopia - the top playtesting conference in the country. I had a phenomenal time last year and am very excited to bring a new game this year.
