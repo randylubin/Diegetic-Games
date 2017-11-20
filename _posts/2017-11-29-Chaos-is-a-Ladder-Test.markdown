@@ -1,6 +1,6 @@
 ---
 title: Chaos is a Ladder – first test
-date: 2017-11-29 16:36:00 Z
+date: 2017-11-19 16:36:00 Z
 categories:
 - blog
 tags:
