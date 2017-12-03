@@ -9,8 +9,9 @@ collections:
     title: Uploads
     output: true
 email: randy@diegeticgames.com
-description: Diegetic Games is Randy Lubin's game studio, full of RPGs, larps, and other storytelling
-  games. There are free print and play games, including drafts of upcoming releases.
+description: Diegetic Games is Randy Lubin's game studio, full of RPGs, larps, and
+  other storytelling games. There are free print and play games, including drafts
+  of upcoming releases.
 baseurl: ''
 url: http://diegeticgames.com
 twitter_username: diegeticgames
