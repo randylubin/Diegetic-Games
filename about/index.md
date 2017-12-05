@@ -13,6 +13,12 @@ All of my games have free print-and-play versions so you can immediately get sta
 
 I love any and all feedback so send it my way! I also love play reports - how did your story turn out? What worked, what didn't? You can email me at [randy@diegeticgames.com](mailto:randy@diegeticgames.com).
 
+<h2>Support me on Patreon</h2>
+<div>
+  I'm sharing design notes, drafts, and previews with my backers.
+</div>
+<a href="https://www.patreon.com/bePatron?u=554536"><img src="/img/become_a_patron_button.png" alt="become a Patron"></a>
+
 ## Diegesis and Hyperdiegesis
 
 "Diegesis" is Greek for narrative or plot. A more modern use of the term classifies something as diegetic if it exists within the fiction. For example, diegetic music might come from a character's headphones but non-diegetic music is part of a soundtrack that the characters don't hear.
