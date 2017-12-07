@@ -13,11 +13,13 @@ All of my games have free print-and-play versions so you can immediately get sta
 
 I love any and all feedback so send it my way! I also love play reports - how did your story turn out? What worked, what didn't? You can email me at [randy@diegeticgames.com](mailto:randy@diegeticgames.com).
 
-<h2>Support me on Patreon</h2>
-<div>
-  I'm sharing design notes, drafts, and previews with my backers.
-</div>
-<a href="https://www.patreon.com/bePatron?u=554536"><img src="/img/become_a_patron_button.png" alt="become a Patron"></a>
+## Support me on Patreon
+
+I'm designing games with the support of my fans on Patreon, where I'm sharing early drafts and design notes. You can pledge as little as $1 per game (every bit helps!) and I'll be releasing games roughly every three months.
+
+Join other incredible patrons such as: Alice Tobin, Allison Chang, Avital Lubin, Dustin Freeman, Greg Lubin, Harry Pottash, Kevin Murphy, Madelyn Miller, Raphael D'Amico, Rob Abrazado, Wendy Lubin.
+
+<a href="https://www.patreon.com/bePatron?u=554536"><img src="/img/become_a_patron_button.png" alt="become a Patron" style="display:block; margin:auto"></a>
 
 ## Diegesis and Hyperdiegesis
 

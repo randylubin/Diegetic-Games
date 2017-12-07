@@ -6,6 +6,7 @@ categories:
 tags:
 - metatopia
 - playtest
+layout: post
 description: A quick recap of my experience at Metatopia 2017
 ---
 
