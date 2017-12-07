@@ -5,6 +5,7 @@ categories:
 - blog
 tags:
 - playtest
+layout: post
 description: First test of a new game inspired by Littlefinger on Game of Thrones
 ---
 
