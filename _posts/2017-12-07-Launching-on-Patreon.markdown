@@ -1,6 +1,6 @@
 ---
 title: Launching on Patreon
-date: 2017-12-07 9:36:00 Z
+date: 2017-12-07 09:36:00 Z
 categories:
 - blog
 tags:
