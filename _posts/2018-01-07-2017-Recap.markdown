@@ -1,0 +1,58 @@
+---
+title: 2017 Recap
+date: 2018-01-07 15:36:00 Z
+categories:
+- blog
+tags:
+- recap
+layout: post
+description: A recap of Diegetic Games 2017
+---
+
+2017 was a very productive year for Diegetic Games! I'll give a quick overview of my releases, drafts, and conference attendance. Also, [launched a Patreon](https://www.patreon.com/randylubin) and would love your support in making better games! Further, I started a podcast called [Jamming on Games](jammingongames.com) and have released three episodes so far.
+
+## Games Released
+
+I participated in five game jams and I continue to love jams as a reason to quickly prototype and ship finished games.
+
+In April, I wrote [Good Morning Magicland](https://diegeticgames.com/blog/2017/04/19/200-Word-RPG-Challenge.html) for the *200 Word RPG Challenge*. You put on a series of short shows on a local access TV station in a fantasy world. It's a lot of fun to play and I may return to it someday to add some extra player scaffolding and more settings.
+
+In June I participated in Game Chef and released my first larp, [Across the Border](https://diegeticgames.com/blog/2017/07/11/Across-the-Border.html). It's about a covert border crossing and takes place walking around your neighborhood or a park. I've gotten increasingly excited about larps and expect to keep writing and playing them in 2018.
+
+[![Rugged landscape from Across the Border](/img/across-the-border-titlelink.png)](/across-the-border)
+
+In September, I submitted another larp, [Among the Mortals](https://diegeticgames.com/blog/2017/09/23/Golden-Cobra-2017-Among-the-Mortals.html), to the Golden Cobra larpwriting competition. The game has two players peoplewatching in a public space and speculating on the fates of those around you.
+
+[![Among the Mortals Logo](/img/among-the-mortals-logo.png)](/game_files/Among-the-Mortals.pdf)
+
+In October, I submitted [GIF-Apocalypse](https://diegeticgames.com/blog/2017/10/01/2017-10-1-GIF-Apocalypse.html) to the 280 Character Game Jam and it's a silly little game played through Twitter using animated GIFs.
+
+Finally, I created a Ghost Court / Paranoia mashup for the New Year, New Game, Game Jam. It's called [Loyalty Celebration](https://diegeticgames.com/game_files/Loyalty-Celebration.pdf) and is pretty silly.
+
+# New Drafts and Upcoming Games
+
+In the first few months of the year, I made significant progress on [Make Haste!](https://diegeticgames.com/game_files/Make-Haste.pdf) – a game where you draw a map as you narrate a quest. The game is in a pretty mature form and I need to make the final version of it at some point...
+
+[![an image of a map, the Make Haste Logo](https://diegeticgames.com/img/noun-journey.png)](https://diegeticgames.com/game_files/Make-Haste.pdf)
+
+I also designed and tested a few games that have yet to be released as drafts.
+
+I ran two playtests of [BART Larp](https://diegeticgames.com/blog/2017/04/16/First-BART-Larp-Playtest.html), a collaboration with Albert Kong that takes place on public transit. I have the draft of the rules half-written and hope to get it to a sharable state in the next few months.
+
+Another larp I've been developing is Behind the Magic – a fantasy mockumentary that I brought to Metatopia. I'm extremely happy with how the game is shaping up. A current draft is available to my Patreon backers and I hope to release a final version this quarter.
+
+I tested two other games that I'm designing through my Patreon – Duetta and Chaos is a Ladder. The former is a sandbox game with 30 minute adventures with two players that affect a persistent, shared world. The latter is a one player, one GM scheming game inspired by Littlefinger on Game of Thrones. Look for more information about both, later this year.
+
+# Conferences
+
+I was fortunate to attend Dreamation, Big Bad Con, and Metatopia. All three were phenomenal and I'm planning to attend all three again this year. I ran my first (non-playtest) con game at Big Bad Con and plan on running games at Dreamation and Big Bad Con this year, too. If you're heading to any of those events – come find me!
+
+# Final Thoughts
+
+It was a super productive year and I'm looking forward to another high-output year in 2018. I'll be sharing updates here on the blog but if you want early access to drafts and design notes – go check out my Patreon!
+
+<div class="">
+    <a href="https://www.patreon.com/bePatron?u=554536"><img src="/img/become_a_patron_button.png" alt="become a backer on Patreon" style="display:block; margin:auto"></a>
+</div>
+
+*If you want to get updates about new games and drafts, sign up for the [Diegetic Games Newsletter](http://diegeticgames.us9.list-manage1.com/subscribe?u=e4f0b45dd4eb576171853a903&id=cacabf37ec)*
