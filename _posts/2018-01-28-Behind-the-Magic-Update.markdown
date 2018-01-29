@@ -1,5 +1,5 @@
 ---
-title: 2017 Recap
+title: Behind the Magic Update
 date: 2018-01-28 15:36:00 Z
 categories:
 - blog
