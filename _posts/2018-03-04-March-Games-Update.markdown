@@ -1,5 +1,5 @@
 ---
-title: March Update: Behind the Magic and Duetta
+title: March Update - Behind the Magic and Duetta
 date: 2018-03-04 15:36:00 Z
 categories:
 - blog
