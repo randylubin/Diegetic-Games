@@ -1,4 +1,5 @@
 ---
+title: March Update - Behind the Magic and Duetta
 ---
 
 It's been a bit since my last update and I'd love to share some progress on two games drafts, Behind the Magic and Duetta.
