@@ -1,13 +1,6 @@
 ---
-title: March Update: Behind the Magic and Duetta
-date: 2018-03-04 15:36:00 Z
-categories:
-- blog
-tags:
-- Behind the Magic
-– Duetta
-layout: post
-description: An update on Behind the Magic and Duetta
+title: 2018 03 04 March Games Update
+date: 2018-03-05 05:34:50.495000000 Z
 ---
 
 It's been a bit since my last update and I'd love to share some progress on two games drafts, Behind the Magic and Duetta.
