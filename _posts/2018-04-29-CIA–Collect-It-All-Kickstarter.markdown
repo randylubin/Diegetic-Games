@@ -1,6 +1,6 @@
 ---
 title: CIA Collect It All Kickstarter
-date: 2018-04-029 10:46:00 Z
+date: 2018-04-29 10:46:00 Z
 ---
 
 Diegetic Games has partnered with [Techdirt](https://www.techdirt.com/) to Kickstart a game! It's called CIA: Collect It All and the [Kickstarter page](https://www.kickstarter.com/projects/mmasnick/cia-collect-it-all/) has tons more details. We fully funded in just two days and are currently near 150% of our goal.
