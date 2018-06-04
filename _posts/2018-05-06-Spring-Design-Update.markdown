@@ -5,7 +5,7 @@ date: 2018-05-06 20:46:00 Z
 
 I have a big [update post on my Patreon](https://www.patreon.com/posts/update-so-many-18489316) covering what I've been working on. Main topics include:
 
-* Overview of **Honor Bound**, a new freeform game I'm desiging with Jason Morningstar
+* Overview of **Honor Bound**, a new freeform game I'm designing with Jason Morningstar
 * Info on the CIA Game I'm [currently Kickstarting](https://www.kickstarter.com/projects/mmasnick/cia-collect-it-all/) (at 225% funded right now!)
 * Early sketches of illustrations for **Behind the Magic**
 
