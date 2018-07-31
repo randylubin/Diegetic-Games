@@ -9,7 +9,7 @@ description: An overview of the game design studio Diegetic Games, its game desi
 
 Diegetic Games is game design studio of [Randy Lubin](http://randylubin.com) (me). I love storytelling, games, and the intersection of the two. I believe that anyone can be an amazing storyteller and I design my games to empower people to tell better stories.
 
-All of my games have free print-and-play versions so you can immediately get started. Several of my games are still in draft form but if they're on this site, they're playable.
+Most of my games have free print-and-play versions so you can immediately get started. Several of my games are still in draft form but if they're on this site, they're playable.
 
 I love any and all feedback so send it my way! I also love play reports - how did your story turn out? What worked, what didn't? You can email me at [randy@diegeticgames.com](mailto:randy@diegeticgames.com).
 
