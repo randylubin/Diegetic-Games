@@ -1,8 +1,7 @@
+
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path:
-webhook_url:
 sections:
 - type: jekyll-pages
   label: Pages
@@ -18,7 +17,7 @@ sections:
   match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
-front_matter_path: ''
+front_matter_path: '/.forestry/front_matter/templates/'
 use_front_matter_path: false
 file_template: ":filename:"
 ---
