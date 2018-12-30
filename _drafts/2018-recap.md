@@ -1,6 +1,6 @@
 ---
 title: 2018 Recap
-date: 2018-12-31 01:00:00 +0000
+date: 2018-12-30 19:00:00 +0000
 layout: post
 description: A recap of 2018 for Diegetic Games and Randy Lubin
 
