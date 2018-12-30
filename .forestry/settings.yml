@@ -21,3 +21,5 @@ public_path: "/uploads"
 front_matter_path: "/.forestry/front_matter/templates"
 use_front_matter_path: false
 file_template: ":filename:"
+build:
+  publish_command: jekyll build
