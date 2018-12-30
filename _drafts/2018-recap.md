@@ -1,12 +1,10 @@
 ---
 title: 2018 Recap
+date: 2018-12-30 01:00:00 Z
 layout: post
 description: A recap of 2018 for Diegetic Games and Randy Lubin
-date: 2018-12-30 01:00:00 +0000
-categories: []
-tags: []
-
 ---
+
 Wow what a year!
 
 I launched my Patreon at the end of 2017 and my initial goal was to ship 4 games this year. I ended up getting massively side tracked but for interesting reasons and still had a high design output, just not how I intended!
