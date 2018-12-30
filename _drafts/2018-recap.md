@@ -5,11 +5,11 @@ layout: post
 description: A recap of 2018 for Diegetic Games and Randy Lubin
 
 ---
-Wow what a year!
+Wow what a year! Two Patreon releases, a Kickstarter funded and fulfilled, several "serious" games that got press coverage and more...
 
 I launched my Patreon at the end of 2017 and my initial goal was to ship 4 games this year. I ended up getting massively side tracked but for interesting reasons and still had a high design output, just not how I intended!
 
-# Patreon Releases: Honor Bound and Behind the Magic
+## Patreon Releases: Honor Bound and Behind the Magic
 
 I started 2018 by iterating on Behind the Magic, my fantasy mockumentary game. The core game was great but I was experimenting with how to present the rules and trying out variant ways to play.
 
@@ -33,7 +33,7 @@ I finally published Behind the Magic to my Patreon backers last week and I'm 100
 
 ![](/uploads/Screen Shot 2018-12-30 at 10.43.00 AM.png)
 
-# Kickstarting CIA: Collect It All
+## Kickstarting CIA: Collect It All
 
 One of my major projects this year was the [Kickstarter for CIA: Collect It All](https://www.kickstarter.com/projects/mmasnick/cia-collect-it-all/). The game is an adaptation of an actual CIA training game, the rules of which were recently released to the public. I teamed up with Mike Masnick and Leigh Beadon of Techdirt to run the Kickstarter, redesign the game, and produce the print run.
 
@@ -43,7 +43,7 @@ The Kickstarter did extremely well – we raised $151,184 from 4,476 backers! We
 
 You can [buy a copy via this page](https://diegeticgames.com/cia-collect-it-all/).
 
-# Free Games
+## Free Games
 
 I also released two free games this year, as part of game jams.
 
@@ -53,7 +53,7 @@ Next there was [Stellar Drift](), submitted for Golden Cobra. It's about generat
 
 ![](https://diegeticgames.com/img/stellar-drift-logo.png)
 
-# Leverage Play: Serious Games
+## Leverage Play: Serious Games
 
 I spent a lot of time this year focused on serious games that help people explore the future and explain the present. It think there's a promising opportunity here and I've founded [Leveraged Play](https://leveragedplay.com/) as a consulting firm to create and run bespoke games.
 
@@ -63,6 +63,6 @@ Mike and I also ran a game at the Disruptive Strategy Summit called "Playing wit
 
 Combining my love of game design and business has been a lot of fun so far and hopefully I plan to continue in 2019. Reach out if you'd like to commission a game!
 
-# What's Next?
+## What's Next?
 
 2019 will probably be a mix of consumer games through Diegetic Games and games for organizations through Leveraged Play. I playtested a few other games this year that might be candidates for further development. I'll cover them in another post, sometime in January!
