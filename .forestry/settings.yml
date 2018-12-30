@@ -24,3 +24,4 @@ file_template: ":filename:"
 build:
   preview_command: jekyll build
   publish_command: jekyll build
+  output_directory: _site
