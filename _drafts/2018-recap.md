@@ -1,8 +1,8 @@
 ---
 title: 2018 Recap
-layout: ''
+layout: post
 description: A recap of 2018 for Diegetic Games and Randy Lubin
-date: ''
+date: 2018-12-30 01:00:00 +0000
 categories: []
 tags: []
 
