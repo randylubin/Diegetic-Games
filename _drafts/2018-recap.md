@@ -1,6 +1,6 @@
 ---
 title: 2018 Recap
-date: 2018-12-30 01:00:00 +0000
+date: 2018-12-31 01:00:00 +0000
 layout: post
 description: A recap of 2018 for Diegetic Games and Randy Lubin
 
@@ -49,8 +49,20 @@ I also released two free games this year, as part of game jams.
 
 First was [How (And Why) I Took Over the World](https://200wordrpg.github.io/2018/rpg/2018/05/28/HowAndWhyITookOverTheWorld.html) for the 200 Word RPG Challenge. It's a very simple one player larp that involves recording videos for YouTube.
 
-Then there was [Stellar Drift](), submitted for Golden Cobra. It's about generation ships traveling to settle distant planets, and the ways in which their cultures morph over time in response to crises.
+Next there was [Stellar Drift](), submitted for Golden Cobra. It's about generation ships traveling to settle distant planets, and the ways in which their cultures morph over time in response to crises.
 
 ![](https://diegeticgames.com/img/stellar-drift-logo.png)
 
 # Leverage Play: Serious Games
+
+I spent a lot of time this year focused on serious games that help people explore the future and explain the present. It think there's a promising opportunity here and I've founded [Leveraged Play](https://leveragedplay.com/) as a consulting firm to create and run bespoke games.
+
+The first "serious" game I designed was Machine Learning President – in collaboration with the Scout.ai team, Mike Masnick, and Eliot Peper. It's a \~50 person game that explores the intersection of technology and politics through the 2020 US presidential election. It was involved in a bizarre [news cycle](https://diegeticgames.com/2018/07/01/Machine-Learning-President.html) in June that generated enough interest that we ran it again in Chicago in October. Polygon [wrote about it](https://www.polygon.com/2018/10/25/18010142/machine-learning-president-2020-election-larp)!
+
+Mike and I also ran a game at the Disruptive Strategy Summit called "Playing with Disruption" where we had huge businesses brainstorm how their industries might evolve, partly by having them give VC pitches and play out earnings calls. I also helped Mike on a few Techdirt / Copia related games such as [Working Futures](https://workingfutur.es/) and [You Make the Call](https://www.youtube.com/watch?v=VIXGkoKfOS0).
+
+Combining my love of game design and business has been a lot of fun so far and hopefully I plan to continue in 2019. Reach out if you'd like to commission a game!
+
+# What's Next?
+
+2019 will probably be a mix of consumer games through Diegetic Games and games for organizations through Leveraged Play. I playtested a few other games this year that might be candidates for further development. I'll cover them in another post, sometime in January!
