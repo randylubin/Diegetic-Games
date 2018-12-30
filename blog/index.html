@@ -1,11 +1,10 @@
 ---
 title: Diegetic Games | Blog
 layout: default
-description: The official blog for Diegetic Games. Contains game updates, game drafts,
-  and general news about the studio.
+description: The official blog for Diegetic Games. Contains game updates, game drafts,and general news about the studio.
 ---
 
-<h1 class="page-heading">The Diegetic Games Blog</h1>
+<h1 class="page-heading text-center">The Diegetic Games Blog</h1>
 
 <script>
   (function() {
@@ -20,14 +19,13 @@ description: The official blog for Diegetic Games. Contains game updates, game d
 </script>
 <gcse:search></gcse:search>
 
-<ul class="post-list">
+<ul class="post-list" style="list-style-type: none;">
   {% for post in site.posts %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+    <li style="margin-bottom: 50px;">
       <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
+      <span class="text-secondary">{{ post.date | date: "%b %-d, %Y" }}</span>
       {% if post.content contains '<!--more-->' %}
           {{ post.content | split:'<!--more-->' | first }}
       {% else %}

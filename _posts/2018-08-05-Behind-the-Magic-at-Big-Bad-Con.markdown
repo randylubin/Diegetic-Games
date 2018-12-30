@@ -1,6 +1,7 @@
 ---
 title: Behind the Magic at Big Bad Con
 date: 2018-08-05 20:46:00 Z
+layout: post
 ---
 
 As work on Behind the Magic continues, I'm excited to share that I'll be running a variant of it at [Big Bad Con](https://www.bigbadcon.com/) this October. Big Bad Con is a phenomenal convention in the Bay Area, full of indie storytelling games. This year it's October 11-14th.

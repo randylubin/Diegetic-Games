@@ -1,55 +1,15 @@
 ---
 ---
-
 @charset "utf-8";
 
-
-// Our variables
-$base-font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
-
-$spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-// Width of the content area
-$content-width:    800px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+img {
+  max-width:100%;
 }
 
+@import 'bootstrap/bootstrap';
+@import 'custom/includes/base';
+@import 'custom/includes/layout';
 
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
 
 html {
   position: relative;
@@ -57,7 +17,6 @@ html {
 }
 
 body {
-    padding-top: 50px;
     padding-bottom: 20px;
     margin-bottom: 180px;
 }
@@ -74,9 +33,22 @@ p {
   text-align: center;
 }
 
-.navbar .nav>li>a {
+.navbar{
+  opacity: 1;
+  z-index: 1001;
+
+  .nav-item{
+    font-size: 1.4rem;
+    padding-right: 20px;
+  }
+}
+
+.navbar-dark .navbar-nav .nav-link {
   color: white;
-  font-size: 14px;
+
+  &:hover {
+    color: white !important;
+  }
 }
 
 a:link, a:visited, a:hover, a:active {
@@ -124,13 +96,10 @@ blockquote p {
   -o-background-size: cover;
   background-size: cover;
   min-height: 500px;
-
-  margin-top: -50px
 }
 
 .container.homepage {
   text-align: center;
-  padding-top: 100px;
   color: #fdfdfd;
   text-shadow:
     2px 2px 0 #000,
@@ -138,11 +107,7 @@ blockquote p {
     1px -1px 0 #000,
    -1px 1px 0 #000,
     1px 1px 0 #000;
-}
-
-.navbar {
-  padding-top: 12px;
-  padding-bottom: 12px;
+  margin-top: 100px;
 }
 
 .footer {
@@ -163,4 +128,12 @@ blockquote p {
 
 .grey-icon-background {
   color: #2f2c2c;
+}
+
+img {
+  max-width: 100%;
+}
+
+.img-fluid {
+  max-width: 100%;
 }
