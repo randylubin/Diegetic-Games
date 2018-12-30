@@ -23,5 +23,3 @@ file_template: ":filename:"
 build:
   preview_command: jekyll build --drafts --unpublished --future
   publish_command: jekyll build
----
-
