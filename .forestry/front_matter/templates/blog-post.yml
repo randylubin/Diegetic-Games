@@ -1,0 +1,26 @@
+---
+label: Blog Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: description
+  config:
+    required: true
+- type: tag_list
+  name: tags
+  label: tags
+- type: text
+  name: layout
+  label: layout
+  default: post
+- type: text
+  name: categories
+  label: categories
+  default: blog
