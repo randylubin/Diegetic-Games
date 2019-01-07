@@ -24,3 +24,5 @@ fields:
   name: categories
   label: categories
   default: blog
+pages:
+- _posts/gaming-like-it-s-1923.md
