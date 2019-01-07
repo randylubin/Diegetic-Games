@@ -24,5 +24,10 @@ fields:
   name: categories
   label: categories
   default: blog
+- type: datetime
+  config:
+    required: true
+  label: date
+  name: date
 pages:
 - _posts/gaming-like-it-s-1923.md
