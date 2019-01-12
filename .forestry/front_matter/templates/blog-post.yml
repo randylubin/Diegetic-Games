@@ -30,4 +30,5 @@ fields:
   label: date
   name: date
 pages:
+- _posts/designing-at-the-frontiers.md
 - _posts/2019-01-07-gaming-like-it-s-1923.md
