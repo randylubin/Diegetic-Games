@@ -48,21 +48,25 @@ One way this might work in a fantasy campaign is using Dungeon World as a defaul
 
 If there is a core building block of play, like a quest or a heist, then there could be a general set of probabilities around outcomes and then a way of translating that into any other system. For example, it could be that quests have a 20% chance of failing interestingly, 50% chance of succeeding at a cost and 30% chance of ending with a resounding success. There would be guidance in translating those odds to combat ratings in D&D, a number of hard moves in Dungeon World, and a clear way to enable designers to quickly make up their own resolution systems that play well with the core system.
 
-## Digital First
+## Digital First & Audience First
 
 Over the past few years, there's been a huge rise in online play. Whether streamed for an audience through Twitch or just with friends over Hangouts or Role 20 – many players are adapting analog games to digital tools.
 
-There's definitely room for games that are designed to played 
+I think we'll start seeing more games designed from the start to played online. Two existing examples are [ViewScream](https://www.drivethrurpg.com/product/113064/ViewScream) about spaceship crew communicating through video chat and [A Doomed Pilgrim](http://lumpley.com/index.php/anyway/thread/722) played through forums / comment threads. The latter is an asymmetric game with one main player and an infinite number of contributors. Other examples are [Chariot](https://geekinitiative.com/tgilarps/chariot-larp/) a digital only larp and [Event Horizon](http://www.eventhorizonlarp.com/), an in-person blockbuster larp that also has remote players communicating through text and video chat.
 
 ## Crossovers
 
-RPG / Larp
+There's lots of interesting opportunities at the intersection of different design cultures. Games here have an opportunity to serve as bridges between communities and ideally bring new players into adjacent types of play.
 
-Party Game / RPG / Larp
+**RPG / Larp**: There's already a lot of activity in the American Freeform space on the continuum between RPG and larp but there's plenty of room for more experimentation. 
+
+**Party Game / RPG / Larp**: One of the biggest opportunities might be storytelling games for folks who like party games (Charades, Taboo, Cards Against Humanity) but who haven't played storytelling games. Storytelling games that are designed with minimal rules, very short runtime, and scaffolding for novice improvisers could be crossover hits. [Ghost Court](http://bullypulpitgames.com/games/ghost-court/) and [Noisy Person Cards](http://paracosmpress.com/npc/) are both interesting games in this space but neither achieved massive commercial success.
 
 Twitch
 
 Board / Card and RPGs
+
+Serious games
 
 ## New Topics
 
