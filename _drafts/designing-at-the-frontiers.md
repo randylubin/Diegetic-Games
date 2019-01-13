@@ -5,7 +5,7 @@ title: Designing at the Frontiers
 description: Speculating at the interesting frontiers of storytelling game design
   in 2019
 tags: []
-date: 2019-01-14 06:00:00 +0000
+date: 2019-01-13 23:35:00 +0000
 
 ---
 Recently I've been thinking about the frontiers of design in storytelling games. What are the most interesting facets of play to engage with as a designer? Where can we push the medium the most?
@@ -46,6 +46,8 @@ There's lots of interesting opportunities at the intersection of different desig
 
 **Serious games**: Business schools have featured games and simulations for decades and militaries have used games going back to the 1800s. I think the time is right for a wave of 'serious' in-person games that help organizations explore the future and explain the present – I started a [Leveraged Play](https://leveragedplay.com) to do just that!
 
+**Theater & VR**: Immersive theater and VR are adjacent media that give audiences an opportunity to influence story. Both can learn a ton from storytelling games, especially when it comes to sharing narrative control with participants.
+
 ## Open Table
 
 Scheduling is hard and it isn't always realistic to get the same group together for a weekly campaign. One solution is an 'open table' style game where a larger pool of players (say 10-20) have characters but only a subset (4-6) show up to a given session. This style play has been around since at least the early 2000s with [The West Marches](http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/) being the earliest form I've heard about.
@@ -68,8 +70,19 @@ One way this might work in a fantasy campaign is using Dungeon World as a defaul
 
 If there is a core building block of play, like a quest or a heist, then there could be a general set of probabilities around outcomes and then a way of translating that into any other system. For example, it could be that quests have a 20% chance of failing interestingly, 50% chance of succeeding at a cost and 30% chance of ending with a resounding success. There would be guidance in translating those odds to combat ratings in D&D, a number of hard moves in Dungeon World, and a clear way to enable designers to quickly make up their own resolution systems that play well with the core system.
 
-## Pervasive
+## Miscellaneous 
 
-Games that can be played during throughout ones life, as you walk around the world.
+Here's a quick list of other trends I've been following that show continuing promise:
 
-## Theater & VR
+* Single player games, potentially using a journal or played while walking around the world
+* Games using interesting props, potentially as resolution mechanics
+* Games about topics and genres outside of fantasy and scifi
+* Games about people whose experiences are vastly different than the straight white male default
+* Games that are non-linear
+* Games that limit or play with communication among players
+
+## Final Thoughts
+
+This was a quick pass but I'd love to hear your thoughts – where do you think the interesting frontiers are?
+
+I'll likely be shifting my game designs to focus on the frontiers. There are tons of talented designers creating non-frontier games and I'd rather be exploring the new and experimental.
