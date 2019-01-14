@@ -40,7 +40,7 @@ Beyond that, there's plenty of room for games designed to be played with an onli
 
 There's lots of interesting opportunities at the intersection of different design cultures. Games here have an opportunity to serve as bridges between communities and ideally bring new players into adjacent types of play.
 
-**RPG / Larp**: There's already a lot of activity in the American Freeform space on the continuum between RPG and larp but there's plenty of room for more experimentation. 
+**RPG / Larp**: There's already a lot of activity in the American Freeform space on the continuum between RPG and larp but there's plenty of room for more experimentation.
 
 **Party Game / RPG / Larp**: One of the biggest opportunities might be storytelling games for folks who like party games (Charades, Taboo, Cards Against Humanity) but who haven't played storytelling games. Storytelling games that are designed with minimal rules, very short runtime, and scaffolding for novice improvisers could be crossover hits. [Ghost Court](http://bullypulpitgames.com/games/ghost-court/) and [Noisy Person Cards](http://paracosmpress.com/npc/) are both interesting games in this space but neither achieved massive commercial success.
 
@@ -70,7 +70,7 @@ One way this might work in a fantasy campaign is using Dungeon World as a defaul
 
 If there is a core building block of play, like a quest or a heist, then there could be a general set of probabilities around outcomes and then a way of translating that into any other system. For example, it could be that quests have a 20% chance of failing interestingly, 50% chance of succeeding at a cost and 30% chance of ending with a resounding success. There would be guidance in translating those odds to combat ratings in D&D, a number of hard moves in Dungeon World, and a clear way to enable designers to quickly make up their own resolution systems that play well with the core system.
 
-## Miscellaneous 
+## Miscellaneous
 
 Here's a quick list of other trends I've been following that show continuing promise:
 
@@ -80,6 +80,7 @@ Here's a quick list of other trends I've been following that show continuing pro
 * Games about people whose experiences are vastly different than the straight white male default
 * Games that are non-linear
 * Games that limit or play with communication among players
+* Games designed for a specific location
 
 ## Final Thoughts
 
