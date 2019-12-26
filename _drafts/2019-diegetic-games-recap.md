@@ -29,7 +29,7 @@ Dungeon Court is a hack of [Ghost Court](https://bullypulpitgames.com/games/ghos
 
 ## Other Activities
 
-At the start of the year I teamed up with Mike Masnick to run the Gaming Like It's 1923 game jam – celebrating new works entering the public domain. We got some great submissions and it was fun to organize and judge. We'll be running 1924 version again next month so keep an eye out!
+At the start of the year I teamed up with Mike Masnick to run the [Gaming Like It's 1923](https://itch.io/jam/gaming-like-its-1923) game jam – celebrating new works entering the public domain. We got some great submissions and it was fun to organize and judge. We'll be running 1924 version again next month so keep an eye out!
 
 Big Bad Con in the Bay Area is always a treat and one highlight was running Behind the Lasers (a sci-fi hack of Behind the Magic) in front of an audience. My co-facilitator was [Karen Twelves](https://karentwelves.com/) and she is a brilliant improv expert and did a phenomenal job keeping the story focused as the ship's AI. We also had some amazing players: Nathan Black, Ash Cheshire, Banana Chan, and Jeeyon Shim. I'm super happy with out the session turned out and the audience seemed to love it too!
 
