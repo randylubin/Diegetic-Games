@@ -1,0 +1,41 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: description
+  config:
+    required: true
+- type: tag_list
+  name: tags
+  label: tags
+- type: text
+  name: layout
+  label: layout
+  default: post
+- type: text
+  name: categories
+  label: categories
+  default: blog
+- type: datetime
+  config:
+    required: true
+  label: date
+  name: date
+pages:
+- _posts/2019-01-07-gaming-like-it-s-1923.md
+- _posts/2019-01-13-designing-at-the-frontiers.md
+- _posts/2019-01-28-a-smattering-of-game-pitches.md
+- _posts/2019-02-04-pattern-libraries.md
+- _posts/2019-02-24-1923-game-jam-results.md
+- _posts/2019-10-28-thoughts-on-growing-the-indie-storytelling-game-market.md
+- _posts/2019-12-25-dungeon-court-at-roguelike-celebration.md
+- _posts/2019-12-26-2019-diegetic-games-recap.md
+- _posts/gaming-like-it-s-1924.md
+- _posts/honor-bound-design-decisions.md

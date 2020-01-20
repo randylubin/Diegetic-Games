@@ -7,7 +7,9 @@ layout: default
 
 # Learn about Story Games
 
-Story games are a diverse category and information about them is scattered across the web. This page covers some of the basics - types of story games and where you can engage more online. I've broken story games into three categories: card / board games, role-playing games (RPGs), and live action role-playing games (LARPs). I plan to create individual pages that goes deeper into each category.
+*Note: this page hasn't been updated in a couple years. While all the recommendations hold, there are tons of new games that are even better. I hope to update this in the future!*
+
+Story games are a diverse category and information about them is scattered across the web. This page covers some of the basics - types of story games and where you can engage more online. I've broken story games into three categories: card / board games, role-playing games (RPGs), and live action role-playing games (LARPs).
 
 Bonus material: I gave talk *Games, Narrative, and Story* that covers some of the relevant themes. Not all of it is relevant to but it provides an overview to the intersection of games and storytelling.
 
@@ -85,18 +87,17 @@ Some of the most crunch games out there are [Pathfinder](https://en.wikipedia.or
 You can find info on lots of RPGs at [RPGGeek.com](http://rpggeek.com). I also recommend checking out the [RPG subreddit](https://www.reddit.com/r/rpg) which also has links to specific subreddits for all major games. I've also compiled a list of [great RPG podcasts](/learn/podcasts).
 
 ## Live Action Role-Playing Games
-*I've only recently started exploring LARP so this section will evolve over time.*
-
 LARPs typically take place away from the table and have the players staying in-character for the duration of the game (often a few hours). Staying in-character creates interesting and intense experiences that are scarce in other types of games and it's fun to act / improvise. Again, there is a huge diversity in types of LARPs, here area few:
 
 ### Parlor / Theater / Freeform LARP
-This style of LARP involves only a handful of players and focuses on interesting character interaction. Usually drama is emergent from the character backgrounds and the initial setup. I've played [Juggernaut](http://bullypulpitgames.com/games/juggernaut/) and [Tribunal](https://nordiclarp.org/wiki/The_Tribunal) and both games yielded fascinating experiences - either would make for a good first LARP.
+This style of LARP involves only a handful of players and focuses on interesting character interaction. Usually drama is emergent from the character backgrounds and the initial setup. The first two I played were [Juggernaut](http://bullypulpitgames.com/games/juggernaut/) and [Tribunal](https://nordiclarp.org/wiki/The_Tribunal) and both games yielded fascinating experiences - either would make for a good first LARP.
 
 ### Boffer LARP
 This style features fighting with foam swords and other physical items. This is probably the most visible / stereotypical LARP but I don't know much about it.
 
 ### Other Resources
 
+*   The [Golden Cobra](http://www.goldencobra.org/) larp writing challenge has a treasure trove of incredible games – check out the winners to explore the breadth of what larp can be!
 *   This [LARP wiki](http://larpwiki.labcats.org/index.php?title=Main_Page) has some good content
 *   Here's a big [list of scenarios](https://wiki.rpg.net/index.php/LARP_Scenarios)
 *   The [Nordic Larp wiki](https://nordiclarp.org/wiki/Main_Page) also has tons of info on a subset of games that overlap with Parlor / Freeform LARP.
