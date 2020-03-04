@@ -33,9 +33,13 @@ This workflow has some great benefits:
 
 # Key Steps
 
-1. Create accounts for [Google Sheets](https://www.google.com/sheets/about/ "Google Sheets") and [Figma](https://www.figma.com/ "Figma")
-2. Add [Google Sheets Sync](https://www.figma.com/community/plugin/735770583268406934/Google-Sheets-Sync "Google Sheets Sync") to your Figma account by clicking install in the upper left of the page
-3. Duplicate the [Card Game Figma Template](https://www.figma.com/file/ftN7ORtGVAHgyzjNDO2kAJ/Card-Game-Template?node-id=0%3A1 "Card Game Figma Template") and, optionally, rename it with the name of your game.
+1. Create accounts for [Google Sheets](https://www.google.com/sheets/about/ "Google Sheets") and [Figma](https://www.figma.com/ "Figma").
+2. Add [Google Sheets Sync](https://www.figma.com/community/plugin/735770583268406934/Google-Sheets-Sync "Google Sheets Sync") to your Figma account by clicking install in the upper left of the page.
+3. Duplicate the [Card Game Figma Template](https://www.figma.com/file/ftN7ORtGVAHgyzjNDO2kAJ/Card-Game-Template?node-id=0%3A1 "Card Game Figma Template") and, optionally, rename it with the name of your game. The duplicate option is in the dropdown next to the file's title.
+
+![Duplicate the Figma file by clicking the dropdown next to the file's title and selecting duplicate](/uploads/Screen Shot 2020-03-04 at 2.25.28 PM.png "Duplicate a Figma File")
+
+4. 
 
 # Further Capabilities
 
