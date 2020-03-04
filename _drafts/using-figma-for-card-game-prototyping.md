@@ -43,7 +43,9 @@ This workflow has some great benefits:
 
 4. Duplicate [Example Card Data for Figma](https://docs.google.com/spreadsheets/d/1a7MWX7uyw-oEedgUmydVjk2tpH2iowTptymUVwIg8O0/edit?usp=sharing "Example Card Data for Figma") in Google Sheets (File > Make a Copy) and save it under the name of your game.
 5. Set the sheet's Sharing permissions to "Anyone with the link can view" – this is essential for enabling the plugin to work.
-6. In your Figma file, 
+
+   ![Set sharing to anyone with the link can view](/uploads/Screen Shot 2020-03-04 at 2.41.17 PM.png)
+6. In your Figma file,
 
 # Further Capabilities
 
