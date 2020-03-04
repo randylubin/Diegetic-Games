@@ -31,6 +31,8 @@ This workflow has some great benefits:
 
 [Card Game Figma Template](https://www.figma.com/file/ftN7ORtGVAHgyzjNDO2kAJ/Card-Game-Template?node-id=0%3A1 "Card Game Figma Template") is a Figma file that's all set up for Google Sheets Sync. It currently allows up to 99 cards with fronts and (optional) backs. You can easily extend it beyond 99 cards.
 
+[Example Card Data for Figma](https://docs.google.com/spreadsheets/d/1a7MWX7uyw-oEedgUmydVjk2tpH2iowTptymUVwIg8O0/edit?usp=sharing "Example Card Data for Figma") is a Google Sheet that contains example data for Figma to pull in. You can add more columns of data to customize it for your game.
+
 # Key Steps
 
 1. Create accounts for [Google Sheets](https://www.google.com/sheets/about/ "Google Sheets") and [Figma](https://www.figma.com/ "Figma").
@@ -39,9 +41,13 @@ This workflow has some great benefits:
 
 ![Duplicate the Figma file by clicking the dropdown next to the file's title and selecting duplicate](/uploads/Screen Shot 2020-03-04 at 2.25.28 PM.png "Duplicate a Figma File")
 
-4. 
+4. Duplicate [Example Card Data for Figma](https://docs.google.com/spreadsheets/d/1a7MWX7uyw-oEedgUmydVjk2tpH2iowTptymUVwIg8O0/edit?usp=sharing "Example Card Data for Figma") in Google Sheets (File > Make a Copy) and save it under the name of your game.
+5. Set the sheet's Sharing permissions to "Anyone with the link can view" – this is essential for enabling the plugin to work.
+6. In your Figma file, 
 
 # Further Capabilities
+
+While this guide covers the basics, there are many directions for further exploration, including:
 
 * Advanced Sync capabilities, including Booleans
 * A4 formatting for European printers
