@@ -45,7 +45,7 @@ This workflow has some great benefits:
 5. Set the sheet's Sharing permissions to "Anyone with the link can view" – this is essential for enabling the plugin to work. Then copy the shareable link.
 
    ![Set sharing to anyone with the link can view](/uploads/Screen Shot 2020-03-04 at 2.41.17 PM.png)
-6. In your Figma file, set up Google Sheets Sync by clicking File > Plugins > Google Sheet Sync.
+6. In your Figma file, set up Google Sheets Sync by clicking Menu > Plugins > Google Sheet Sync.
 
    ![](/uploads/Screen Shot 2020-03-04 at 2.43.13 PM.png)
 7. Paste your Google Sheets view sharing URL into the pop-up and select 'Update entire document' and then click Fetch & Sync
@@ -54,9 +54,23 @@ This workflow has some great benefits:
 
 The cards in Figma should now populate with data from your spreadsheet. You'll need to re-run Fetch & Sync every time you update your data in Google Sheets – don't forget to choose 'Update entire document'.
 
-# Customizing the Design in Figma
+# Customizing the Design and Data
 
-# Adding New Data
+The Figma file is set up so that the pages of cards draw from one Component card template for each side of the card. These are located left of the pages.
+
+![](/uploads/Screen Shot 2020-03-04 at 3.21.17 PM.png)
+
+Any changes you make to the Card Component will affect the actual cards embedded in the pages to the right. Figma offers a robust suite of design tools to change color, font, layout, and more. I recommend keeping things simple and in black and white for early stage playtests.
+
+You can add additional columns of data to Google Sheet but you'll need to update the Card Component to pull those values in. Do so by creating a new text element in the Card Component and giving it a tile "#ColName" where ColName is the name of the new column in Google Sheets – capitalization and spaces are ignored.
+
+# Printing
+
+Once your Figma file has the right design and the correct data, export to PDF by clicking Menu > File > Export Frames to PDF.
+
+![](/uploads/Screen Shot 2020-03-04 at 3.32.59 PM.png)
+
+Before you print, make sure to delete any empty pages, including the backs, if you aren't using them. If your cards are two sided but your printer doesn't print duplex, you'll have to print the first 11 pages and then feed the fronts back into the printer and then print pages 12-22.
 
 # Further Capabilities
 
