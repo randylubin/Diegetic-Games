@@ -13,6 +13,8 @@ date: 2020-03-04 08:00:00 +0000
 ---
 This is a guide for using Figma and Google Sheets to rapidly prototype card games. It includes links to the tools, an overview of the key steps, and links to templates. Credit to [Raph D'Amico](https://laughingkaiju.com/ "Raph D'Amico") for discovering this workflow and teaching it to me!
 
+![Card Prototyping in Figma](/uploads/Screen Shot 2020-03-04 at 3.37.47 PM.png "Card Prototyping in Figma")
+
 This workflow has some great benefits:
 
 * Access to Figma's powerful design capabilities
@@ -58,7 +60,7 @@ The cards in Figma should now populate with data from your spreadsheet. You'll n
 
 The Figma file is set up so that the pages of cards draw from one Component card template for each side of the card. These are located left of the pages.
 
-![](/uploads/Screen Shot 2020-03-04 at 3.21.17 PM.png)
+![Edit Component](/uploads/Screen Shot 2020-03-04 at 3.21.17 PM.png "Edit Component")
 
 Any changes you make to the Card Component will affect the actual cards embedded in the pages to the right. Figma offers a robust suite of design tools to change color, font, layout, and more. I recommend keeping things simple and in black and white for early stage playtests.
 
@@ -68,7 +70,7 @@ You can add additional columns of data to Google Sheet but you'll need to update
 
 Once your Figma file has the right design and the correct data, export to PDF by clicking Menu > File > Export Frames to PDF.
 
-![](/uploads/Screen Shot 2020-03-04 at 3.32.59 PM.png)
+![Export to PDF](/uploads/Screen Shot 2020-03-04 at 3.32.59 PM.png "Export to PDF")
 
 Before you print, make sure to delete any empty pages, including the backs, if you aren't using them. If your cards are two sided but your printer doesn't print duplex, you'll have to print the first 11 pages and then feed the fronts back into the printer and then print pages 12-22.
 
