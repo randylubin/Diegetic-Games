@@ -21,11 +21,13 @@ This workflow has some great benefits:
 * Real time collaboration
 * 100% free to use
 
-The Tools
+# The Tools
 
-Google Sheets
+[Google Sheets](https://www.google.com/sheets/about/ "Google Sheets") is a free online spreadsheet program. It is easy to use and has powerful function capabilities for generating cards.
 
-Figma
+[Figma](https://www.figma.com/ "Figma") is a sophisticated online design tool. It is mainly used by web designers but is a great fit for other mediums as well. It's free to use and has a robust community of plugins, designers, and users.
+
+[Google Sheets Sync](https://www.figma.com/community/plugin/735770583268406934/Google-Sheets-Sync "Google Sheets Sync") is a Figma plugin by Dave Williames. It lets you use data from Google Sheets to automatically populate a Figma file. It provides similar functionality to Data Merge in other applications. The plugin has some sophisticated capabilities but we'll be sticking to the basics you can learn more by reading [its documentation](https://www.figma.com/proto/VtXf9HikcehWB7FJrJmApl "Google Sheets Sync Documentation").
 
 [https://www.figma.com/community/plugin/735770583268406934/Google-Sheets-Sync](https://www.figma.com/community/plugin/735770583268406934/Google-Sheets-Sync "https://www.figma.com/community/plugin/735770583268406934/Google-Sheets-Sync")
 
