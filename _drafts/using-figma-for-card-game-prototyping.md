@@ -54,7 +54,7 @@ This workflow has some great benefits:
 
 The cards in Figma should now populate with data from your spreadsheet. You'll need to re-run Fetch & Sync every time you update your data in Google Sheets – don't forget to choose 'Update entire document'.
 
-# Updating the Designs in Figma
+# Customizing the Design in Figma
 
 # Adding New Data
 
