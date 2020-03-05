@@ -84,7 +84,7 @@ Consider getting a paper cutter ($10 USD) to speed up the card creation:
 
 # Further Capabilities
 
-While this guide covers the basics, there are many directions for further exploration, including:
+While this guide covers the basics, there are many directions for further exploration:
 
 * Advanced Sync capabilities, including Booleans
 * A4 formatting for European printers
