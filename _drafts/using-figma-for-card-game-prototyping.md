@@ -84,6 +84,10 @@ Consider getting a paper cutter ($10 USD) to speed up the card creation:
 
 # Further Capabilities
 
+While the template is set up for simple black and white cards, you can get quite sophisticated with your designs. Raph used this approach to make our cards for Dungeon Court and they turned out great!
+
+![](/uploads/IMG_3542.jpeg)
+
 While this guide covers the basics, there are many directions for further exploration:
 
 * Advanced Sync capabilities, including Booleans
