@@ -31,7 +31,7 @@ This workflow has some great benefits:
 
 [Google Sheets Sync](https://www.figma.com/community/plugin/735770583268406934/Google-Sheets-Sync "Google Sheets Sync") is a Figma plugin by Dave Williames. It lets you use data from Google Sheets to automatically populate a Figma file. It provides similar functionality to Data Merge in other applications. The plugin has some sophisticated capabilities but we'll be sticking to the basics you can learn more by reading [its documentation](https://www.figma.com/proto/VtXf9HikcehWB7FJrJmApl "Google Sheets Sync Documentation").
 
-[Card Game Figma Template](https://www.figma.com/file/ftN7ORtGVAHgyzjNDO2kAJ/Card-Game-Template?node-id=0%3A1 "Card Game Figma Template") is a Figma file that's all set up for Google Sheets Sync. It currently allows up to 99 cards with fronts and (optional) backs. You can easily extend it beyond 99 cards.
+[Card Game Figma Template](https://www.figma.com/file/ftN7ORtGVAHgyzjNDO2kAJ/Card-Game-Template?node-id=0%3A1 "Card Game Figma Template") is a Figma file that's prepared for Google Sheets Sync. It currently set for up to 99 cards with fronts and (optional) backs. You can easily extend it beyond 99 cards.
 
 [Example Card Data for Figma](https://docs.google.com/spreadsheets/d/1a7MWX7uyw-oEedgUmydVjk2tpH2iowTptymUVwIg8O0/edit?usp=sharing "Example Card Data for Figma") is a Google Sheet that contains example data for Figma to pull in. You can add more columns of data to customize it for your game.
 
@@ -76,6 +76,11 @@ Once your Figma file has the right design and the correct data, export to PDF by
 ![Export to PDF](/uploads/Screen Shot 2020-03-04 at 3.32.59 PM.png "Export to PDF")
 
 Before you print, make sure to delete any empty pages, including the backs, if you aren't using them. If your cards are two sided but your printer doesn't print duplex, you'll have to print the first 11 pages and then feed the fronts back into the printer and then print pages 12-22.
+
+Consider getting a paper cutter ($10 USD) to speed up the card creation:
+
+* [AmazonBasics Paper Trimmer](https://amzn.to/3cw9kGn "Paper Trimmer")
+* [Japanese Corner Clipper](https://amzn.to/32Vp5lJ "Japanese Corner Clipper") (rounded corners)
 
 # Further Capabilities
 
