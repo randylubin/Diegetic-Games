@@ -53,7 +53,7 @@ This workflow has some great benefits:
 
 ![](/uploads/Screen Shot 2020-03-04 at 2.43.13 PM.png)
 
-7) Paste your Google Sheets view sharing URL into the pop-up and select 'Update entire document' and then click Fetch & Sync
+7) Paste your Google Sheets view sharing URL into the pop-up and select 'Update entire document' and then click Fetch & Sync.
 
 ![](/uploads/Screen Shot 2020-03-04 at 2.43.01 PM.png)
 
