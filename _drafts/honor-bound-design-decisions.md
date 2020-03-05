@@ -5,7 +5,7 @@ title: Honor Bound Design Decisions
 description: A look at some of the design decisions in making the game Honor Bound
 tags:
 - design
-date: 2020-01-18 08:00:00 +0000
+date: 2030-01-01 08:00:00 +0000
 
 ---
 In 2018, Jason Morningstar and I designed and released [Honor Bound](https://randylubin.itch.io/honor-bound) – a game about how honor culture and toxic masculinity make it nearly impossible to deescalate from a fraught situation.
