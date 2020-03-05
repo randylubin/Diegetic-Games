@@ -93,3 +93,5 @@ While this guide covers the basics, there are many directions for further explor
 * Advanced Sync capabilities, including Booleans
 * A4 formatting for European printers
 * Exporting single card files for printer-on-demand services like Game Crafter
+
+Depending on time / interest, I might expand this guide and make more templates.
