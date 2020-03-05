@@ -67,7 +67,7 @@ The Figma file is set up so that the pages of cards draw from one Component card
 
 Any changes you make to the Card Component will affect the actual cards embedded in the pages to the right. Figma offers a robust suite of design tools to change color, font, layout, and more. I recommend keeping things simple and in black and white for early stage playtests.
 
-You can add additional columns of data to Google Sheet but you'll need to update the Card Component to pull those values in. Do so by creating a new text element in the Card Component and giving it a tile "#ColName" where ColName is the name of the new column in Google Sheets – capitalization and spaces are ignored.
+You can add additional columns of data to Google Sheet but you'll need to update the Card Component to pull those values in. Do so by creating a new text element in the Card Component and giving it a tile "#ColName" where ColName is the name of the new column in Google Sheets – capitalization and spaces are ignored. Make sure the column title is in bold font.
 
 # Printing
 
