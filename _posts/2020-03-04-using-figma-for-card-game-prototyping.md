@@ -31,29 +31,26 @@ This workflow has some great benefits:
 
 [Google Sheets Sync](https://www.figma.com/community/plugin/735770583268406934/Google-Sheets-Sync "Google Sheets Sync") is a Figma plugin by Dave Williames. It lets you use data from Google Sheets to automatically populate a Figma file. It provides similar functionality to Data Merge in other applications. The plugin has some sophisticated capabilities but we'll be sticking to the basics you can learn more by reading [its documentation](https://www.figma.com/proto/VtXf9HikcehWB7FJrJmApl "Google Sheets Sync Documentation").
 
-[Card Game Figma Template](https://www.figma.com/file/ftN7ORtGVAHgyzjNDO2kAJ/Card-Game-Template?node-id=0%3A1 "Card Game Figma Template") is a Figma file that's prepared for Google Sheets Sync. It currently set for up to 99 cards with fronts and (optional) backs. You can easily extend it beyond 99 cards.
+[Card Game Figma Template](https://www.figma.com/community/file/817798579757368783 "Card Game Figma Template") is a Figma file that's prepared for Google Sheets Sync. It currently set for up to 99 cards with fronts and (optional) backs. You can easily extend it beyond 99 cards.
 
 [Example Card Data for Figma](https://docs.google.com/spreadsheets/d/1a7MWX7uyw-oEedgUmydVjk2tpH2iowTptymUVwIg8O0/edit?usp=sharing "Example Card Data for Figma") is a Google Sheet that contains example data for Figma to pull in. You can add more columns of data to customize it for your game.
 
 # Key Steps
 
-1) Create accounts for [Google Sheets](https://www.google.com/sheets/about/ "Google Sheets") and [Figma](https://www.figma.com/ "Figma").
+1. Create accounts for [Google Sheets](https://www.google.com/sheets/about/ "Google Sheets") and [Figma](https://www.figma.com/ "Figma").
+2. Add [Google Sheets Sync](https://www.figma.com/community/plugin/735770583268406934/Google-Sheets-Sync "Google Sheets Sync") to your Figma account by clicking install in the upper left of the page.
+3. Duplicate the [Card Game Figma Template](https://www.figma.com/file/ftN7ORtGVAHgyzjNDO2kAJ/Card-Game-Template?node-id=0%3A1 "Card Game Figma Template") and, optionally, rename it with the name of your game. The duplicate option is in upper right corner.
 
-2) Add [Google Sheets Sync](https://www.figma.com/community/plugin/735770583268406934/Google-Sheets-Sync "Google Sheets Sync") to your Figma account by clicking install in the upper left of the page.
+![Duplicate the Figma Template](/uploads/Screen Shot 2020-03-06 at 9.32.50 AM.png "Duplicate the Figma Template")
 
-3) Duplicate the [Card Game Figma Template](https://www.figma.com/file/ftN7ORtGVAHgyzjNDO2kAJ/Card-Game-Template?node-id=0%3A1 "Card Game Figma Template") and, optionally, rename it with the name of your game. The duplicate option is in the dropdown next to the file's title.
-
-![Duplicate the Figma file by clicking the dropdown next to the file's title and selecting duplicate](/uploads/Screen Shot 2020-03-04 at 2.25.28 PM.png "Duplicate a Figma File")
-
-4) Duplicate [Example Card Data for Figma](https://docs.google.com/spreadsheets/d/1a7MWX7uyw-oEedgUmydVjk2tpH2iowTptymUVwIg8O0/edit?usp=sharing "Example Card Data for Figma") in Google Sheets (File > Make a Copy) and save it under the name of your game.
-
-5) Set the sheet's Sharing permissions to "Anyone with the link can view" – this is essential for enabling the plugin to work. Then copy the shareable link.
+1. Duplicate [Example Card Data for Figma](https://docs.google.com/spreadsheets/d/1a7MWX7uyw-oEedgUmydVjk2tpH2iowTptymUVwIg8O0/edit?usp=sharing "Example Card Data for Figma") in Google Sheets (File > Make a Copy) and save it under the name of your game.
+2. Set the sheet's Sharing permissions to "Anyone with the link can view" – this is essential for enabling the plugin to work. Then copy the shareable link.
 
 ![Set sharing to anyone with the link can view](/uploads/Screen Shot 2020-03-04 at 2.41.17 PM.png)6) In your Figma file, set up Google Sheets Sync by clicking Menu > Plugins > Google Sheet Sync.
 
 ![](/uploads/Screen Shot 2020-03-04 at 2.43.13 PM.png)
 
-7) Paste your Google Sheets view sharing URL into the pop-up and select 'Update entire document' and then click Fetch & Sync.
+1. Paste your Google Sheets view sharing URL into the pop-up and select 'Update entire document' and then click Fetch & Sync.
 
 ![](/uploads/Screen Shot 2020-03-04 at 2.43.01 PM.png)
 
