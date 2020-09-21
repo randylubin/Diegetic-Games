@@ -12,7 +12,9 @@ I'm excited to share my latest game, written for Golden Cobra: _Dawn of the Mons
 
 You can check it out now, online at [monster.diegeticgames.com](monster.diegeticgames.com)
 
-![](https://diegeticgames.com/img/monster-game-cover.png)Each round has three characters to choose from, that connect to the current arc of the story. Character cards have story suggestions to help inspire and inform the player's speech.
+![cover of the game: a monster at a podium](https://diegeticgames.com/img/monster-game-cover.png)
+
+Each round has three characters to choose from, that connect to the current arc of the story. Character cards have story suggestions to help inspire and inform the player's speech.
 
 ![Three character options for round 4: Monster Apologist, Conspiracy Theorist, and Greedy Profiteer](https://pbs.twimg.com/media/EiZbAvKUcAE-AR-?format=png&name=900x900)
 
