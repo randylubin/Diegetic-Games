@@ -28,6 +28,12 @@ fields:
     required: true
   label: date
   name: date
+- name: monetization
+  type: text
+  config:
+    required: false
+  label: monetization
+  default: <meta name="monetization" content="$ilp.uphold.com/WMbkRBiZFgbx">
 pages:
 - _posts/2019-01-07-gaming-like-it-s-1923.md
 - _posts/2019-01-13-designing-at-the-frontiers.md
@@ -38,4 +44,5 @@ pages:
 - _posts/2019-12-25-dungeon-court-at-roguelike-celebration.md
 - _posts/2019-12-26-2019-diegetic-games-recap.md
 - _posts/2020-03-04-using-figma-for-card-game-prototyping.md
+- _posts/2020-09-21-dawn-of-the-monster-invasion-my-golden-cobra-2020-submission.md
 - _posts/honor-bound-design-decisions.md
