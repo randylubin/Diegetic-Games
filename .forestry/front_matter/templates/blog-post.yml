@@ -28,6 +28,12 @@ fields:
     required: true
   label: date
   name: date
+- name: monetization
+  type: text
+  config:
+    required: false
+  label: monetization
+  default: <meta name="monetization" content="$ilp.uphold.com/WMbkRBiZFgbx">
 pages:
 - _posts/2019-01-07-gaming-like-it-s-1923.md
 - _posts/2019-01-13-designing-at-the-frontiers.md
