@@ -47,13 +47,13 @@ You can learn more about creating games via the [documentation pages](https://do
 
 ![Around the Realm](https://img.itch.zone/aW1nLzQ4MzQ2OTIucG5n/original/LIweGl.png)
 
-In December I released Around the Realm, a light storytelling game where players create the story of two companions racing around a fantasy realm. It's inspired by Jules Verne's Around the World in 80 Days and leads to quick, fun adventures. You can [play it online here](http://storysynth.org/Games/Around-The-Realm) (via Story Synth).
+In December I released Around the Realm, a light storytelling game where players create the story of two companions racing around a fantasy realm. It's inspired by Jules Verne's Around the World in 80 Days and leads to quick, fun adventures. You can [play it online here](https://storysynth.org/#/Games/Around-The-Realm/) (via Story Synth).
 
 ## Post-Work Paradise
 
 ![Image](https://pbs.twimg.com/media/Eq7MjPfU0AE1mTc?format=png&name=small)
 
-In December, I also designed a submission for the [Post-Work City Project](https://postwork.city/) called [Post-Work Paradise](http://storysynth.org/games/Post-Work-City). In Post-work Paradise, you see randomly generated residents of a city, in a world where automation has rendered traditional work unnecessary. Players take turns answering questions about these generated citizens and their lives.
+In December, I also designed a submission for the [Post-Work City Project](https://postwork.city/) called [Post-Work Paradise](https://storysynth.org/#/Games/Post-Work-Paradise/). In Post-work Paradise, you see randomly generated residents of a city, in a world where automation has rendered traditional work unnecessary. Players take turns answering questions about these generated citizens and their lives.
 
 I was honored to hear that my submission was one of seven that were accepted to be featured in the Post-Work City gallery. I also participated in a panel where I got to talk about the game and my design choices.
 
