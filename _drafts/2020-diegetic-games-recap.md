@@ -27,7 +27,7 @@ You can [buy Premise on Itch.io](https://randylubin.itch.io/premise-setting-char
 
 ![cover of the game: a monster at a podium](https://diegeticgames.com/img/monster-game-cover.png)
 
-In September, I released Dawn of the Monster Invasion, a game where players create a spoof of monster movies though a series of speeches + Q&A. It was my submission to Golden Cobra this year and it won an award! I create a web app so folks could play over video chat and then extended the app to be a platform any designer could use – more on that in a moment. The game + app platform won the award for "Best New Tool" which was nice honor.
+In September, I released Dawn of the Monster Invasion, a game where players create a spoof of monster movies though a series of speeches + Q&A. It was my submission to Golden Cobra and it won an award! I create a web app so folks could play over video chat and then extended the app to be a platform any designer could use – more on that in a moment. The game + app platform won the award for "Best New Tool" which was nice honor.
 
 You can read more about the game [in this post](https://diegeticgames.com/blog/2020/09/21/dawn-of-the-monster-invasion-my-golden-cobra-2020-submission.html) and you can [play it online here](http://monster.diegeticgames.com/).
 
