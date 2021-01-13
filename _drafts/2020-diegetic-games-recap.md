@@ -27,7 +27,7 @@ You can [buy Premise on Itch.io](https://randylubin.itch.io/premise-setting-char
 
 ![cover of the game: a monster at a podium](https://diegeticgames.com/img/monster-game-cover.png)
 
-In September, I released Dawn of the Monster Invasion, a game where players create a spoof of monster movies though a series of speeches + Q&A. It was my submission to Golden Cobra and it won an award! I create a web app so folks could play over video chat and then extended the app to be a platform any designer could use – more on that in a moment. The game + app platform won the award for "Best New Tool" which was nice honor.
+In September, I released Dawn of the Monster Invasion, a game where players create a spoof of monster movies though a series of speeches + Q&A. It was my submission to Golden Cobra and it won an award! I created a web app for it so folks could play over video chat and then extended the app to be a platform any designer could use – more on that in a moment. The game + app platform won the award for "Best New Tool" which was nice honor.
 
 You can read more about the game [in this post](https://diegeticgames.com/blog/2020/09/21/dawn-of-the-monster-invasion-my-golden-cobra-2020-submission.html) and you can [play it online here](http://monster.diegeticgames.com/).
 
@@ -35,7 +35,7 @@ You can read more about the game [in this post](https://diegeticgames.com/blog/2
 
 ![The story synth home page. The top half of the page has example games and the bottom half has a form that lets designers paste a google sheet that will generate a game.](https://pbs.twimg.com/media/EnrvrCcVQAERNUm?format=png&name=900x900)
 
-In October, I launched [Story Synth](http://storysynth.org/) as a web platform that helps designers quickly create and share prompt-driven storytelling games. Designing is as easy as adding card content to a Google Sheet and then pasting that sheet into the website. From there, you can create new game sessions and share them with friends and playtesters online.
+In October, I launched [Story Synth](http://storysynth.org/) as a web platform that helps designers quickly create and share prompt-driven storytelling games. Designing is as easy as adding card content to a Google Sheet and then pasting that sheet url into the website. From there, you can create new game sessions and share them with friends and playtesters online.
 
 Story Synth supports a handful of game formats. The most popular allows randomly drawing prompts from a deck (or decks), which is great for games inspired by For the Queen or The Quiet Year. Other formats support timer-based prompts, random prompt generation, phased based play, and more.
 
@@ -47,7 +47,7 @@ You can learn more about creating games via the [documentation pages](https://do
 
 ![Around the Realm](https://img.itch.zone/aW1nLzQ4MzQ2OTIucG5n/original/LIweGl.png)
 
-In December I released Around the Realm, a light storytelling game where players create the story of two companions racing around a fantasy realm. It's inspired by Jules Verne's Around the World in 80 Days and generates quick, fun adventures. You can [play it online here](http://storysynth.org/Games/Around-The-Realm) (via Story Synth).
+In December I released Around the Realm, a light storytelling game where players create the story of two companions racing around a fantasy realm. It's inspired by Jules Verne's Around the World in 80 Days and leads to quick, fun adventures. You can [play it online here](http://storysynth.org/Games/Around-The-Realm) (via Story Synth).
 
 ## Post-Work Paradise
 
