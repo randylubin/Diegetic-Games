@@ -6,7 +6,7 @@ title: 2020 Diegetic Games Recap
 description: An overview of games released and game design activity from Diegetic
   Games in 2020
 tags: []
-date: 2021-01-18 20:00:00 +0000
+date: 2021-01-13 16:00:00 +0000
 
 ---
 Despite the mess that was 2020, I was fairly productive on the game design front. I published a total of 8 games as well as an online game design platform! Here's a quick overview of the year's releases and activities.
