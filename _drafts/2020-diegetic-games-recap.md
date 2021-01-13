@@ -23,11 +23,27 @@ I started working on Premise ages ago but it was frequently pushed to the backbu
 
 You can [buy Premise on Itch.io](https://randylubin.itch.io/premise-setting-character-plot) – there's a print-at-home version as well as templates to play online via Google Slides.
 
+## Dawn of the Monster Invasion
+
+## Around the Realm
+
+## Story Synth
+
+## Post-Work Paradise
+
 ## Leveraged Play / Serious Games
 
 I was also busy on the "serious games" front. Last year I designed and ran:
 
-* Imagining Health Futures, a game that explores the future of health, in support of UNICEF's Office of Innovation (co-designed with Jason Morningstar) (facilitator guide)
-* Threatcast 2020, a game about election manipulation (co-designed with Copia) (write-up)
-* Hindsight 2030, a game about exploring trends over the next 10 years (co-designed with Copia) ([Twitter thread](https://twitter.com/randylubin/status/1299135869803085826))
-* Positive AI Economic Futures, a 4-hour workshop involving 5 mini-games designed for the World Economic Forum and the Center for Human-compatible Artificial Intelligence (co-designed with Copia)
+* Imagining Health Futures, a game that explores the future of health, in support of UNICEF's Office of Innovation (co-designed with Jason Morningstar) ([facilitator guide](https://drive.google.com/file/d/1ZWTMnG3gqjG2R2Mc95uodPoNo-GnNR5V/view?usp=sharing))
+* Threatcast 2020, a game about election manipulation (co-designed with Copia) ([Twitter thread](https://twitter.com/randylubin/status/1299135869803085826))
+* Hindsight 2030, a game about exploring trends over the next 10 years (co-designed with Copia) ([write-up](https://www.techdirt.com/articles/20201130/10074645790/copia-gaming-hour-experiment-getting-together-virtually-to-play-with-future.shtml))
+* Positive AI Economic Futures, a 4-hour workshop involving 5 mini-games designed for the World Economic Forum and the Center for Human-compatible Artificial Intelligence (co-designed with Copia) ([write-up](https://blog.randylubin.com/positive-ai-economic-futures-workshop))
+
+## 2021
+
+I'm not positive what 2021 will have in store. I anticipate spending a lot of time on Story Synth – adding new features and making example games.
+
+I'd also love to publish my map making game 'Make Haste' but we'll see how I prioritize it.
+
+I'll likely also be busy with plenty of interesting "serious games" and will share those details, too.
