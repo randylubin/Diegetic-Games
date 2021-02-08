@@ -10,7 +10,7 @@ date: 2021-02-06 22:00:00 +0000
 ---
 I have an early draft of a new game to share. It's tentatively titled 'Clash at Ikara' and it's inspired by Seven Samurai. Over the course of the game, players will tell the story of a group of heroes defending a community against a bandit attack.
 
-Check out the current draft and let me know what you think: [Clash at Ikara](https://storysynth.org/#/Shuffled/1FIWw_lyefEPF9dc-4C-cBwr9gg3D1QH5vkW89WxGu68)
+Check out the current draft and let me know what you think: [Clash at Ikara](https://storysynth.org/Games/Clash-At-Ikara/)
 
 ![](/uploads/screen-shot-2021-02-06-at-2-03-41-pm.png)
 
