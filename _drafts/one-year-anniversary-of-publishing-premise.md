@@ -5,7 +5,7 @@ monetization: <meta name="monetization" content="$ilp.uphold.com/WMbkRBiZFgbx">
 title: One Year Anniversary of Publishing Premise
 description: 'A quick look at Premise: Setting, Character, Plot'
 tags: []
-date: 2021-02-12 08:00:00 +0000
+date: 2021-02-12 20:00:00 +0000
 
 ---
 Roughly a year ago I published [Premise: Setting, Character, Plot](https://randylubin.itch.io/premise-setting-character-plot) which you can now buy via Itch.io. I did very little promotion of it back then and didn't write about it on this blog (blame the pandemic) so here's a bit about the game and how it can be used.
