@@ -30,9 +30,13 @@ Ideally these Roadmaps would include:
 
 ## Example: Save the Galaxy
 
-I've just released my first Plot Roadmap, called [Save The Galaxy](https://randylubin.itch.io/save-the-galaxy). It's a supplement for Riley Rethal's game Galactic 2e. Save the Galaxy guides the players through telling a tightly plotted one shot where a group of heroes foil a dastardly plot by The Mandate (an analog to The Empire in Star Wars).
+I've just released my first Plot Roadmap, called [Save The Galaxy](https://randylubin.itch.io/save-the-galaxy). It's a supplement for Riley Rethal's game [Galactic 2e](https://metagame.itch.io/galactic). Save the Galaxy guides the players through telling a tightly plotted one shot where a group of heroes foil a dastardly plot by The Mandate (an analog to The Empire in Star Wars).
 
-Galactic is a Belonging Outside Belonging game.
+Galactic 2e is a Belonging Outside Belonging (BoB) game that is heavily inspired by Star Wars. Like other BoB games, there's no facilitator or dice rolling. Players share responsibility for representing the different elements of the setting in play, as well as the actions of the non-player characters.
+
+Galactic does a great job of supporting character creation and character arcs, through evocative character sheets and moves (actions). However, there isn't direct support for telling tightly plotted single-session stories – and that's not the game's intention.
+
+With Save the Galaxy, my aim is to help any group of players take the strong character sheets and setting pillars from the Galactic Playkit and quickly tell a story with a strong narrative arc.
 
 TK Similarity with quick starts
 
