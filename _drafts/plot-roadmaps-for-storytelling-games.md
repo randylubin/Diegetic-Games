@@ -62,4 +62,4 @@ TK wide variety of game types
 
 TK spectrum of how narrowly defined / scripted
 
-TK Games that do plot structure well - Fiasco with everything falling apart, The Zone with characters dying and one player reaching the center, For the Queen with the final card bringing the journey to a climax. Indigo Galleon with clocks. Behind the Magic has scenes for each Act of the story. Larp in general! Lady Blackbird?
+TK Games that do plot structure well - Fiasco with everything falling apart, The Zone with characters dying and one player reaching the center, For the Queen with the final card bringing the journey to a climax. Indigo Galleon with clocks. Behind the Magic has scenes for each Act of the story. Larp in general! Lady Blackbird? love in the time of seid
