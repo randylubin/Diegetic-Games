@@ -36,8 +36,30 @@ Galactic 2e is a Belonging Outside Belonging (BoB) game that is heavily inspired
 
 Galactic does a great job of supporting character creation and character arcs, through evocative character sheets and moves (actions). However, there isn't direct support for telling tightly plotted single-session stories – and that's not the game's intention.
 
-With Save the Galaxy, my aim is to help any group of players take the strong character sheets and setting pillars from the Galactic Playkit and quickly tell a story with a strong narrative arc.
+With Save the Galaxy, my aim is to help any group of players take the strong character sheets and setting pillars from the Galactic Playkit and quickly tell a story with a complete narrative arc. It's free and only three pages, so I recommend you give it a [quick look](https://randylubin.itch.io/save-the-galaxy)!
+
+Here's a breakdown of what's in it:
+
+* Page one explains what's in the guide and walks players through setup
+* Page two has players pick the Threat, Antagonist, and Flaw for the session and then read out a Star Wars-inspired opening crawl that frames the story
+* Page three has a list of scene prompts for each of the three acts and then guides for between-act interludes and an epilogue
+
+And that's all! My hope is that it's easy to use at the table and provides plenty of structure without being too constricting. If you end up trying it out, I'd love to hear how it goes.
+
+## The Future of Plot Roadmaps
+
+I'd love to see a wave of Plot Roadmaps made for a diverse array of games. I could see them working well for a number of systems beyond Belonging Outside Belonging and they could work well in games with facilitators, too.
+
+I've licensed Save the Galaxy under a Creative Commons [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) license which means you can share and remix as much as you'd like. I think there's room for plenty of other Star Wars inspired story arcs beyond the one I created and I'd love to see what you come up with.
+
+If you hack Save the Galaxy or make your own Plot Roadmaps from scratch, let me know; I'd love to hear about it!
+
+***
 
 TK Similarity with quick starts
 
-TK Games that do plot structure well - Fiasco with everything falling apart, The Zone with characters dying and one player reaching the center, For the Queen with the final card bringing the journey to a climax. Indigo Galleon with clocks. Behind the Magic has scenes for each Act of the story. Larp in general!
+TK wide variety of game types
+
+TK spectrum of how narrowly defined / scripted
+
+TK Games that do plot structure well - Fiasco with everything falling apart, The Zone with characters dying and one player reaching the center, For the Queen with the final card bringing the journey to a climax. Indigo Galleon with clocks. Behind the Magic has scenes for each Act of the story. Larp in general! Lady Blackbird?
