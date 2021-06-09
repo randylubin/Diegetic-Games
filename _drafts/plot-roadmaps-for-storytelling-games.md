@@ -6,9 +6,11 @@ title: Plot Roadmaps for Storytelling Games
 description: A look at Plot Roadmaps, a new type of supplement for storytelling games
   that guide players to tell fast paced one session stories.
 tags: []
-date: 2021-06-07 07:00:00 +0000
+date: 2021-06-07T07:00:00.000+00:00
 
 ---
+Last week I released my first "plot guide" – [Save the Galaxy](https://randylubin.itch.io/save-the-galaxy), a supplement for Galactic 2e. This post will explore the design space of plot guides and why I'd love to see more of them.
+
 ## A Love of Plot
 
 When it comes to storytelling games, I love to weave fast paced plots that reach satisfying conclusions. This is especially true for single-session games where it can be fun to race through key story beats and wrap things up neatly by the end of play.
