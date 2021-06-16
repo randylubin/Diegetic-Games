@@ -2,11 +2,11 @@
 layout: post
 categories: blog
 monetization: <meta name="monetization" content="$ilp.uphold.com/WMbkRBiZFgbx">
-title: Plot Roadmaps for Storytelling Games
+title: Plot Guides for Storytelling Games
 description: A look at Plot Roadmaps, a new type of supplement for storytelling games
   that guide players to tell fast paced one session stories.
 tags: []
-date: 2021-06-07T07:00:00.000+00:00
+date: 2021-06-15 07:00:00 +0000
 
 ---
 Last week I released my first "plot guide" – [Save the Galaxy](https://randylubin.itch.io/save-the-galaxy), a supplement for Galactic 2e. This post will explore the design space of plot guides and why I'd love to see more of them.
@@ -25,16 +25,16 @@ Second caveat – I'm most focused on indie tabletop games and especially GMless
 
 ## Introducing Plot Roadmaps
 
-I'd love to see a new category of game supplements: Plot Roadmaps. These Roadmaps would guide players through a single session of the base game that hits specific narrative beats.
+I'd love to see a new category of game supplements: Plot Guides. These would walk players through a single session of the base game that hits specific narrative beats and tells a complete story.
 
-Ideally these Roadmaps would include:
+Ideally these Guides would include:
 
 * A Script: short instructions that could be read aloud during play, which walk players through all the necessary steps of character creation and play.
 * Scene lists: a series of scene prompts and narrative beats which the players can skim through – some might be optional and some mandatory.
 
-## Example: Save the Galaxy
+## My Example: Save the Galaxy
 
-I've just released my first Plot Roadmap, called [Save The Galaxy](https://randylubin.itch.io/save-the-galaxy). It's a supplement for Riley Rethal's game [Galactic 2e](https://metagame.itch.io/galactic). Save the Galaxy guides the players through telling a tightly plotted one shot where a group of heroes foil a dastardly plot by The Mandate (an analog to The Empire in Star Wars).
+I've just released my first Plot Guide: [Save The Galaxy](https://randylubin.itch.io/save-the-galaxy). It's a supplement for Riley Rethal's game [Galactic 2e](https://metagame.itch.io/galactic). Save the Galaxy guides the players through telling a tightly plotted one shot where a group of heroes foil a dastardly plot by The Mandate (an analog to The Empire in Star Wars).
 
 Galactic 2e is a Belonging Outside Belonging (BoB) game that is heavily inspired by Star Wars. Like other BoB games, there's no facilitator or dice rolling. Players share responsibility for representing the different elements of the setting in play, as well as the actions of the non-player characters.
 
@@ -48,22 +48,22 @@ Here's a breakdown of what's in it:
 * Page two has players pick the Threat, Antagonist, and Flaw for the session and then read out a Star Wars-inspired opening crawl that frames the story
 * Page three has a list of scene prompts for each of the three acts and then guides for between-act interludes and an epilogue
 
+![](https://img.itch.zone/aW1hZ2UvMTA2Njc5MS82MTYxNjE4LnBuZw==/347x500/CGpDrE.png)![](https://img.itch.zone/aW1hZ2UvMTA2Njc5MS82MTYxNjE3LnBuZw==/347x500/NZmYhW.png)![](https://img.itch.zone/aW1hZ2UvMTA2Njc5MS82MTYxNjE5LnBuZw==/347x500/QuLqa1.png)
+
 And that's all! My hope is that it's easy to use at the table and provides plenty of structure without being too constricting. If you end up trying it out, I'd love to hear how it goes.
 
-## The Future of Plot Roadmaps
+## The Future of Plot Guides
 
-I'd love to see a wave of Plot Roadmaps made for a diverse array of games. I could see them working well for a number of systems beyond Belonging Outside Belonging and they could work well in games with facilitators, too.
+I'd love to see a wave of Plot Guides made for a diverse array of games. I could see them working well for a number of systems beyond Belonging Outside Belonging and they could work well in games with facilitators, too.
 
 I've licensed Save the Galaxy under a Creative Commons [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) license which means you can share and remix as much as you'd like. I think there's room for plenty of other Star Wars inspired story arcs beyond the one I created and I'd love to see what you come up with.
 
-If you hack Save the Galaxy or make your own Plot Roadmaps from scratch, let me know; I'd love to hear about it!
+If you hack Save the Galaxy or make your own Plot Guides from scratch, let me know; I'd love to hear about it!
 
-***
+## Other Notes
 
-TK Similarity with quick starts
+Some games are already oriented toward tightly plotted single sessions. For example, both [Fiasco](https://bullypulpitgames.com/games/fiasco/) and [The Zone]() do a great job of hitting the right plot beats and reaching an ending.
 
-TK wide variety of game types
+For a while, I was seeing plenty of adventure starters for Dungeon World, which would give a GM lots of fodder to start a session but not too much support toward finishing one. [Dragonslaying on a Timetable](https://docs.google.com/document/d/17ypjtlHfcwqrU_-x4b7o0e8tZ_dN2TiNLUu48MLAw7Y/edit?hl=en&forcehl=1#heading=h.kce6i5lodbq1) is probably the closest I've seen to a plot guide and it definitely influenced my design of Save the Galaxy.
 
-TK spectrum of how narrowly defined / scripted
-
-TK Games that do plot structure well - Fiasco with everything falling apart, The Zone with characters dying and one player reaching the center, For the Queen with the final card bringing the journey to a climax. Indigo Galleon with clocks. Behind the Magic has scenes for each Act of the story. Larp in general! Lady Blackbird? love in the time of seid
+Larp, in general, is great for tightly plotted one shots. My own game [Behind the Magic](https://randylubin.itch.io/behind-the-magic) even has three acts with scene lists for each. There's so much tabletop games can learn from larp and I'm excited to see more inspirations from larp show up in tabletop.
