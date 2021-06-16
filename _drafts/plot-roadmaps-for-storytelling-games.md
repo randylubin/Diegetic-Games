@@ -17,9 +17,11 @@ When it comes to storytelling games, I love to weave fast paced plots that reach
 
 I've found that many games out there have phenomenal support for character creation and arcs, worldbuilding, and individual story beats yet have little to say when it comes to overarching plot.
 
-A quick caveat – there's no wrong way to play! I've played in wonderful sessions that were just focused on worldbuilding or character creation or exploring how characters interact with each other. That said, my personal preference is often for a strong narrative arc with a clear resolution and I often find this type of play unsupported.
-
 When there's a lack of plot support, there's a risk that the story will meander and players won't be sure exactly how to push the story forward. Sessions might end with the story just petering out. This is especially true for novice players who might also be focused on learning the rules.
+
+First caveat – there's no wrong way to play! I've played in wonderful sessions that were just focused on worldbuilding or character creation or exploring how characters interact with each other. That said, my personal preference is often for a strong narrative arc with a clear resolution and I often find this type of play unsupported.
+
+Second caveat – I'm most focused on indie tabletop games and especially GMless games. Traditional games (like D&D) have plenty of pre-written adventures or rely on a GM to push the story forward.
 
 ## Introducing Plot Roadmaps
 
