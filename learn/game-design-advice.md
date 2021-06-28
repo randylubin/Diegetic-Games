@@ -12,6 +12,8 @@ published: false
 ---
 # Game Design Advice
 
-I've been designing storytelling and card games since 2013 and I've built up a long list of advice and design patterns that work for me. This page contains that accumulated advice, sorted by stage of the design process and I hope it's helpful! A caveat – everyone's design journey is different and there are plenty of reasons why any individual bit of advice might not work for you.
+I've been designing storytelling and card games since 2013 and I've built up a long list of advice and design patterns that work for me. This page contains that accumulated advice, sorted by stage of the design process. I strongly believe that EVERYONE can be a game designer and I hope this helps you on your journey.
+
+A caveat – everyone's design journey is different and there are plenty of reasons why any individual bit of advice might not work for you.
 
 ## Getting Started
