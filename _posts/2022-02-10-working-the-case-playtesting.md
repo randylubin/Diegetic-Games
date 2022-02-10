@@ -6,7 +6,7 @@ title: 'Working the Case: Playtesting'
 description: 'Playtest information about my upcoming murder mystery game: Working
   the Case'
 tags: []
-date: 2022-02-10 18:00:00 +0000
+date: 2022-02-10 10:00:00 -0800
 
 ---
 I have a new game that's entering playtesting and I'd love for you to give it a try! The game is a 30 minute murder mystery with the tentative title: Working the Case.
