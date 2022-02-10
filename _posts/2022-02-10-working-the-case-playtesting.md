@@ -11,7 +11,7 @@ date: 2022-02-10 18:00:00 +0000
 ---
 I have a new game that's entering playtesting and I'd love for you to give it a try! The game is a 30 minute murder mystery with the tentative title: Working the Case.
 
-![a screen shot of the Working the Case prototype in PlayingCards.io - a full board of evidence at the end of the game](/uploads/screen-shot-2022-02-10-at-9-08-45-am.png)
+![a screen shot of the Working the Case prototype in PlayingCards.io - a full board of evidence at the end of the game](/uploads/screen-shot-2022-02-10-at-9-20-28-am.png)
 
 ## The Pitch
 
