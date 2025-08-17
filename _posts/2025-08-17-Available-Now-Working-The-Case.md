@@ -4,10 +4,11 @@ layout: post
 categories: blog
 monetization: <meta name="monetization" content="$ilp.uphold.com/WMbkRBiZFgbx">
 description: Announcing the publication of Working the Case, a murder mystery game.
-tags: [announcements, launch, working the case]
+tags: [announcements]
 date: '2025-8-17 16:00:00 +0000'
 ---
-## Working the Case is now Available
+
+## Working the Case is Now Available
 ![A completed game of Working the Case (Space Station playset), with five suspects and 14 evidence cards. The mercenary ex-romantic partner killed the scientist!]({{site.baseurl}}/img/blog/Working-the-Case-Space-Spread.png)
 
 I’m excited to share that the digital version of Working the Case is now available to buy on Itch: https://randylubin.itch.io/working-the-case
