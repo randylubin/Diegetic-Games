@@ -1,5 +1,4 @@
 ---
-title: Now Available: Working the Case
 layout: post
 categories: blog
 monetization: <meta name="monetization" content="$ilp.uphold.com/WMbkRBiZFgbx">
