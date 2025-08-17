@@ -10,7 +10,7 @@ date: '2025-8-17 16:00:00 +0000'
 ## Working the Case is Now Available
 ![A completed game of Working the Case (Space Station playset), with five suspects and 14 evidence cards. The mercenary ex-romantic partner killed the scientist!]({{site.baseurl}}/img/blog/Working-the-Case-Space-Spread.png)
 
-I’m excited to share that the digital version of Working the Case is now available to buy on Itch: https://randylubin.itch.io/working-the-case
+I’m excited to share that the digital version of Working the Case is now available to buy on Itch: [https://randylubin.itch.io/working-the-case](https://randylubin.itch.io/working-the-case)
 
 Working the Case is a 30-minute cooperative murder mystery game that's playable online via Playingcards.io. So far there are three playsets: Fantasy, Space Station, and Cyberpunk.
 
@@ -33,6 +33,6 @@ You can listen to an actual play of Working the Case on the [Party of One Podcas
 
 Working the Case is one my favorite creations – it consistently generates a satisfying mystery through a fun, brief play session. I’ve prototyped a physical version of the game and some day I hope to publish that version of the game too; it likely won’t be soon, though.
 
-Once again, if you’d like to buy a copy, you can grab one at: https://randylubin.itch.io/working-the-case
+Once again, if you’d like to buy a copy, you can grab one at: [https://randylubin.itch.io/working-the-case](https://randylubin.itch.io/working-the-case)
 
 If you like this style of game, you may want to check out [Seizing the Crown](https://diegeticgames.com/seizing-the-crown/), which uses similar mechanics to create a political fantasy epic of rival factions vying for control of a kingdom. That game is in late-stage playtesting and you can grab a free beta version to test it out.
