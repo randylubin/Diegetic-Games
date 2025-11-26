@@ -1,3 +1,14 @@
+---
+layout: post
+categories: blog
+monetization: <meta name="monetization" content="$ilp.uphold.com/WMbkRBiZFgbx">
+description: >-
+  Announcing the publication of Three Generations The Rise and Fall of the
+  Eternal Empire
+tags:
+  - announcements
+date: '2025-11-26 00:00:00 +0000'
+---
 ## Three Generations: The Rise and Fall of the Eternal Empire is Available
 ![the logo of three generations, featuring a woodcut of ancient ruins ]({{site.baseurl}}/img/Three-Generations-Banner.png)
 
