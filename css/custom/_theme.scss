@@ -1,0 +1,47 @@
+// Theme: Clean & Minimal
+:root {
+  // Colors
+  --color-bg: #FAFAFA;
+  --color-surface: #FFFFFF;
+  --color-surface-alt: #F1F5F9;
+  --color-text: #334155;
+  --color-text-muted: #64748B;
+  --color-heading: #1E293B;
+  --color-accent: #2563EB;
+  --color-accent-hover: #1D4ED8;
+  --color-accent-light: rgba(37, 99, 235, 0.1);
+  --color-border: #E2E8F0;
+  --color-badge-story: #2563EB;
+  --color-badge-card: #7C3AED;
+  --color-badge-draft: #64748B;
+  --color-status-sale: #059669;
+  --color-status-free: #2563EB;
+  --color-status-play: #7C3AED;
+  --color-status-playtesting: #D97706;
+  --color-hero-overlay: rgba(15, 23, 42, 0.7);
+  --color-hero-text: #FFFFFF;
+  --color-footer-bg: #1E293B;
+  --color-footer-text: #CBD5E1;
+  --color-navbar-bg: #1E293B;
+  --color-navbar-text: #F8FAFC;
+
+  // Typography
+  --font-heading: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-size-base: 1rem;
+
+  // Spacing & Shape
+  --radius: 8px;
+  --radius-lg: 12px;
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.07), 0 2px 4px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1), 0 4px 6px rgba(0, 0, 0, 0.05);
+  --card-hover-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  --card-hover-translate: -4px;
+
+  // Layout
+  --section-padding: 4rem 0;
+  --container-max: 1200px;
+  --container-padding: 1.5rem;
+}

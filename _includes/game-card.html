@@ -1,0 +1,54 @@
+{% comment %}
+  Game card component.
+  Usage: {% include game-card.html game=game variant="featured" %}
+  variant: "featured", "draft", or omit for standard
+{% endcomment %}
+
+{% assign variant = include.variant | default: "standard" %}
+{% assign game = include.game %}
+
+<article class="game-card{% if variant == 'featured' %} game-card--featured{% elsif variant == 'draft' %} game-card--draft{% endif %}">
+  {% if variant == 'draft' %}
+    {% if game.icon %}
+    <div class="game-card-icon">
+      <img src="{{ game.icon }}" alt="{{ game.title }} icon" loading="lazy">
+    </div>
+    {% endif %}
+  {% else %}
+    {% if game.image %}
+    <img class="game-card-image" src="{{ game.image }}" alt="{{ game.title }}" loading="lazy">
+    {% endif %}
+  {% endif %}
+
+  <div class="game-card-body">
+    <div class="game-card-badges">
+      {% if game.category == "Story Game" %}
+        <span class="badge badge--story">Story Game</span>
+      {% elsif game.category == "Card Game" %}
+        <span class="badge badge--card-game">Card Game</span>
+      {% elsif game.category == "Draft" %}
+        <span class="badge badge--draft">Draft</span>
+      {% endif %}
+
+      {% if game.status == "For Sale" %}
+        <span class="badge badge--for-sale">For Sale</span>
+      {% elsif game.status == "Free" %}
+        <span class="badge badge--free">Free</span>
+      {% elsif game.status == "Play Online" %}
+        <span class="badge badge--play-online">Play Online</span>
+      {% elsif game.status == "Playtesting" %}
+        <span class="badge badge--playtesting">Playtesting</span>
+      {% endif %}
+    </div>
+
+    <h3 class="game-card-title">{{ game.title }}</h3>
+    <p class="game-card-desc">{{ game.description }}</p>
+
+    <div class="game-card-links">
+      <a href="{{ game.url }}" class="game-card-link">{{ game.cta }}</a>
+      {% if game.play_url %}
+        <a href="{{ game.play_url }}" class="game-card-link">{{ game.play_cta }}</a>
+      {% endif %}
+    </div>
+  </div>
+</article>

@@ -1,37 +1,22 @@
-<header class="">
+<header class="site-nav">
+  <div class="nav-container">
+    <a href="{{ site.baseurl }}/" class="nav-brand">Diegetic Games</a>
 
-  <!-- NAV -->
-  <nav class="navbar navbar-expand-md navbar-dark bg-dark py-4">
-    <div class="container">
-      <a href="{{ site.baseurl }}/" class="navbar-brand">
-        <h3 class="d-inline align-middle pl-3">Diegetic Games</h3>
-      </a>
-      <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav ml-auto">
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span class="hamburger"></span>
+    </button>
 
-          <li class="nav-item">
-            <a href="{{ site.baseurl }}/about/" class="nav-link">About</a>
-          </li>
-
-          <li class="nav-item">
-            <a href="{{ site.baseurl }}/blog/" class="nav-link">Blog</a>
-          </li>
-
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Learn</a>
-            <div class="dropdown-menu">
-              <a class="dropdown-item" href="{{ site.baseurl }}/learn/">Story Games</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/learn/podcasts.html">Podcasts</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/learn/collaborative-storytelling-examples.html">Collaborative Storytelling</a>
-            </div>
-          </li>
-
-        </ul>
+    <nav class="nav-links">
+      <a href="{{ site.baseurl }}/about/" class="nav-link">About</a>
+      <a href="{{ site.baseurl }}/blog/" class="nav-link">Blog</a>
+      <div class="nav-dropdown">
+        <a href="#" class="nav-link nav-dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Learn</a>
+        <div class="nav-dropdown-menu">
+          <a href="{{ site.baseurl }}/learn/">Story Games</a>
+          <a href="{{ site.baseurl }}/learn/podcasts.html">Podcasts</a>
+          <a href="{{ site.baseurl }}/learn/collaborative-storytelling-examples.html">Collaborative Storytelling</a>
+        </div>
       </div>
-    </div>
-  </nav>
-
+    </nav>
+  </div>
 </header>

@@ -1,0 +1,72 @@
+// Card grid layouts
+.card-grid {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: 1fr;
+
+  @media (min-width: $bp-mobile) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: $bp-desktop) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+// Featured grid: larger cards
+.card-grid--featured {
+  grid-template-columns: 1fr;
+  gap: 2rem;
+
+  @media (min-width: $bp-tablet) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+// Draft grid: compact, more columns
+.card-grid--drafts {
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+
+  @media (min-width: $bp-mobile) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: $bp-tablet) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  @media (min-width: $bp-desktop) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+// Card games grid: 2 columns max
+.card-grid--card-games {
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+
+  @media (min-width: $bp-mobile) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+// Section wrapper
+.section {
+  padding: var(--section-padding);
+}
+
+.section-container {
+  max-width: var(--container-max);
+  margin: 0 auto;
+  padding: 0 var(--container-padding);
+}
+
+.section-header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.section--alt {
+  background: var(--color-surface-alt);
+}

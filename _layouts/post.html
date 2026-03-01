@@ -1,60 +1,33 @@
-<!doctype html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
-
-  <head>
-      {% include head.html %}
-  </head>
-
-  <body>
-    <!--[if lt IE 8]>
-        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
-
-    {% include header.html %}
-
-      <article class="post container" itemscope itemtype="http://schema.org/BlogPosting">
-        <div class="row">
-          <div class="col-md-6 offset-md-3">
-            <header class="post-header">
-              <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-              <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-            </header>
-
-            <div class="post-content" itemprop="articleBody">
-              {{ content }}
-            </div>
-
-            <div id="disqus_thread"></div>
-              <script>
-                  /**
-                   *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-                   *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-                   */
-                  /*
-                  var disqus_config = function () {
-                      this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-                      this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-                  };
-                  */
-                  (function() {  // DON'T EDIT BELOW THIS LINE
-                      var d = document, s = d.createElement('script');
-
-                      s.src = '//diegeticgames.disqus.com/embed.js';
-
-                      s.setAttribute('data-timestamp', +new Date());
-                      (d.head || d.body).appendChild(s);
-                  })();
-              </script>
-              <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-          </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+<body>
+  {% include header.html %}
+  <article class="post container" itemscope itemtype="http://schema.org/BlogPosting" style="padding-top: 2rem; padding-bottom: 2rem;">
+    <div class="row">
+      <div class="col-md-6 offset-md-3">
+        <header class="post-header">
+          <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+          <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+        </header>
+        <div class="post-content" itemprop="articleBody">
+          {{ content }}
         </div>
-      </article>
-
-{% include footer.html %}
-
+        <div id="disqus_thread"></div>
+        <script>
+          (function() {
+            var d = document, s = d.createElement('script');
+            s.src = '//diegeticgames.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+          })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+      </div>
+    </div>
+  </article>
+  {% include footer.html %}
 </body>
-
 </html>

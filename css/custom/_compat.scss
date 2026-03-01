@@ -1,0 +1,309 @@
+// Bootstrap compatibility for sub-pages and blog posts
+// Provides essential Bootstrap classes so existing pages don't break
+
+.container {
+  width: 100%;
+  max-width: var(--container-max);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--container-padding);
+  padding-right: var(--container-padding);
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+[class*="col-"] {
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 100%;
+}
+
+.col-md-2 { width: 100%; }
+.col-md-3 { width: 100%; }
+.col-md-4 { width: 100%; }
+.col-md-5 { width: 100%; }
+.col-md-6 { width: 100%; }
+.col-md-7 { width: 100%; }
+.col-md-8 { width: 100%; }
+.col-md-10 { width: 100%; }
+.col-md-12 { width: 100%; }
+
+@media (min-width: 768px) {
+  .col-md-2 { width: 16.666%; flex: 0 0 16.666%; }
+  .col-md-3 { width: 25%; flex: 0 0 25%; }
+  .col-md-4 { width: 33.333%; flex: 0 0 33.333%; }
+  .col-md-5 { width: 41.666%; flex: 0 0 41.666%; }
+  .col-md-6 { width: 50%; flex: 0 0 50%; }
+  .col-md-7 { width: 58.333%; flex: 0 0 58.333%; }
+  .col-md-8 { width: 66.666%; flex: 0 0 66.666%; }
+  .col-md-10 { width: 83.333%; flex: 0 0 83.333%; }
+  .col-md-12 { width: 100%; flex: 0 0 100%; }
+  .offset-md-1 { margin-left: 8.333%; }
+  .offset-md-2 { margin-left: 16.666%; }
+  .offset-md-3 { margin-left: 25%; }
+  .offset-md-4 { margin-left: 33.333%; }
+}
+
+// Common Bootstrap utilities
+.text-center { text-align: center; }
+.text-right { text-align: right; }
+.mx-auto { margin-left: auto; margin-right: auto; }
+.mt-3 { margin-top: 1rem; }
+.mt-4 { margin-top: 1.5rem; }
+.mb-3 { margin-bottom: 1rem; }
+.mb-4 { margin-bottom: 1.5rem; }
+.py-4 { padding-top: 1.5rem; padding-bottom: 1.5rem; }
+.pl-3, .ps-3 { padding-left: 1rem; }
+.d-inline { display: inline; }
+.d-block { display: block; }
+.d-none { display: none; }
+.d-flex { display: flex; }
+.align-middle { vertical-align: middle; }
+.img-fluid { max-width: 100%; height: auto; }
+
+// Bootstrap button compatibility
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: var(--radius);
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: var(--color-accent);
+  border-color: var(--color-accent);
+
+  &:hover {
+    background-color: var(--color-accent-hover);
+    border-color: var(--color-accent-hover);
+    text-decoration: none;
+  }
+}
+
+// Jumbotron compat (for any sub-pages that might use it)
+.jumbotron {
+  padding: 2rem;
+  margin-bottom: 2rem;
+  background-color: var(--color-surface-alt);
+  border-radius: var(--radius-lg);
+}
+
+// Form compat
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--color-text);
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  transition: border-color 0.15s ease-in-out;
+
+  &:focus {
+    border-color: var(--color-accent);
+    outline: 0;
+    box-shadow: 0 0 0 3px var(--color-accent-light);
+  }
+}
+
+.form-inline {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  gap: 0.5rem;
+
+  .form-control {
+    width: auto;
+  }
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+// Post content compatibility
+.post-header {
+  margin-bottom: 2rem;
+}
+
+.post-title {
+  font-size: clamp(1.75rem, 4vw, 2.5rem);
+  letter-spacing: -0.5px;
+}
+
+.post-meta {
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+}
+
+// Shared prose styles for post content and default-layout pages
+%prose-styles {
+  h1 { font-size: clamp(1.75rem, 4vw, 2.5rem); margin-top: 2.5rem; margin-bottom: 1rem; }
+  h2 { font-size: 1.75rem; margin-top: 2rem; margin-bottom: 1rem; }
+  h3 { font-size: 1.375rem; margin-top: 1.5rem; margin-bottom: 0.75rem; }
+  h4 { font-size: 1.125rem; margin-top: 1.25rem; margin-bottom: 0.5rem; }
+  p { margin-bottom: 1rem; }
+  ul, ol {
+    margin-bottom: 1rem;
+    padding-left: 1.5rem;
+    list-style: revert;
+  }
+  li { margin-bottom: 0.25rem; }
+  img { margin: 1rem 0; border-radius: var(--radius); }
+  blockquote {
+    background: var(--color-surface-alt);
+    border-left: 4px solid var(--color-accent);
+    margin: 1.5rem 0;
+    padding: 1rem 1.5rem;
+    color: var(--color-text-muted);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    p { margin-bottom: 0; }
+  }
+  pre, code {
+    font-family: 'SFMono-Regular', Consolas, monospace;
+    font-size: 0.875rem;
+  }
+  code {
+    background: var(--color-surface-alt);
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+  }
+  pre {
+    background: var(--color-surface-alt);
+    padding: 1rem;
+    border-radius: var(--radius);
+    overflow-x: auto;
+    code {
+      background: none;
+      padding: 0;
+    }
+  }
+
+  // First heading shouldn't have extra top margin
+  > h1:first-child,
+  > h2:first-child {
+    margin-top: 0;
+  }
+}
+
+.post-content {
+  @extend %prose-styles;
+}
+
+// Page content styles for default-layout pages (about, learn, blog archive)
+.page-content {
+  @extend %prose-styles;
+
+  .page-heading {
+    margin-bottom: 1.5rem;
+  }
+}
+
+// Blog archive post list
+.post-list {
+  padding-left: 0 !important;
+  list-style: none !important;
+
+  > li {
+    padding-bottom: 2.5rem;
+    margin-bottom: 2.5rem;
+    border-bottom: 1px solid var(--color-border);
+
+    &:last-child {
+      border-bottom: none;
+      margin-bottom: 0;
+    }
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 0.25rem;
+
+    a {
+      color: var(--color-heading);
+
+      &:hover {
+        color: var(--color-accent);
+      }
+    }
+  }
+
+  .text-secondary {
+    display: block;
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+    margin-bottom: 1rem;
+  }
+
+  // Hide duplicate headings in excerpts (posts often start with an h2 that repeats the title)
+  .post-excerpt {
+    h1, h2, h3 {
+      display: none;
+    }
+  }
+
+  // Constrain excerpt content
+  p {
+    margin-bottom: 0.75rem;
+  }
+
+  img {
+    max-height: 300px;
+    width: auto;
+    border-radius: var(--radius);
+  }
+
+  // Style the read more link
+  > li > a:last-child {
+    font-weight: 600;
+    font-size: 0.925rem;
+    color: var(--color-accent);
+
+    &:hover {
+      color: var(--color-accent-hover);
+    }
+  }
+}
+
+.rss-subscribe {
+  margin-top: 2rem;
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+}
+
+// Dropdown compat for learn pages
+.dropdown-menu {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 0.5rem 0;
+  box-shadow: var(--shadow-md);
+
+  a {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: var(--color-text);
+
+    &:hover {
+      background-color: var(--color-surface-alt);
+      text-decoration: none;
+    }
+  }
+}

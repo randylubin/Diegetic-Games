@@ -20,21 +20,33 @@ description: The official blog for Diegetic Games. Contains game updates, game d
 </script>
 <gcse:search></gcse:search>
 
-<ul class="post-list" style="list-style-type: none;">
+<ul class="post-list">
   {% for post in site.posts %}
-    <li style="margin-bottom: 50px;">
+    <li>
       <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
       <span class="text-secondary">{{ post.date | date: "%b %-d, %Y" }}</span>
-      {% if post.content contains '<!--more-->' %}
-          {{ post.content | split:'<!--more-->' | first }}
-      {% else %}
-          {{ post.excerpt }}
-      {% endif %}
+      <div class="post-excerpt">
+        {{ post.excerpt }}
+      </div>
       <a href="{{ post.url }}">Read More</a>
     </li>
   {% endfor %}
 </ul>
 
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+<script>
+  // Make excerpt images clickable links to the post
+  document.querySelectorAll('.post-list li').forEach(function(li) {
+    var link = li.querySelector('.post-link');
+    if (!link) return;
+    li.querySelectorAll('.post-excerpt img').forEach(function(img) {
+      var a = document.createElement('a');
+      a.href = link.href;
+      img.parentNode.insertBefore(a, img);
+      a.appendChild(img);
+    });
+  });
+</script>

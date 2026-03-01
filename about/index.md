@@ -13,14 +13,6 @@ Most of my games have free print-and-play versions so you can immediately get st
 
 I love any and all feedback so send it my way! I also love play reports - how did your story turn out? What worked, what didn't? You can email me at [randy@diegeticgames.com](mailto:randy@diegeticgames.com).
 
-## Support me on Patreon
-
-I'm designing games with the support of my fans on Patreon, where I'm sharing early drafts and design notes. You can pledge as little as $1 per game (every bit helps!) and I'll be releasing games roughly every three months.
-
-Join other incredible patrons such as: Alice Tobin, Allison Chang, Avital Lubin, Dustin Freeman, Greg Lubin, Harry Pottash, Kevin Murphy, Madelyn Miller, Raphael D'Amico, Rob Abrazado, Wendy Lubin.
-
-<a href="https://www.patreon.com/bePatron?u=554536"><img src="/img/become_a_patron_button.png" alt="become a Patron" style="display:block; margin:auto"></a>
-
 ## Diegesis and Hyperdiegesis
 
 "Diegesis" is Greek for narrative or plot. A more modern use of the term classifies something as diegetic if it exists within the fiction. For example, diegetic music might come from a character's headphones but non-diegetic music is part of a soundtrack that the characters don't hear.
