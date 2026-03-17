@@ -22,9 +22,7 @@
 
   <div class="game-card-body">
     <div class="game-card-badges">
-      {% if game.category == "Story Game" %}
-        <span class="badge badge--story">Story Game</span>
-      {% elsif game.category == "Card Game" %}
+      {% if game.category == "Card Game" %}
         <span class="badge badge--card-game">Card Game</span>
       {% elsif game.category == "Draft" %}
         <span class="badge badge--draft">Draft</span>
